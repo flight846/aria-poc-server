@@ -1,6 +1,7 @@
 {
     "cases": [
-        { 
+        {
+            "id": 1, 
             "casename": "Public Prosecutor v Lim Chai Heng[2019] SGHC 272", 
             "court": "High Court", 
             "charges": [ 
@@ -15,7 +16,8 @@
             "concurrentOrSerial":"Serial" ,
             "numOfCharges":"5" 
         },
-        { 
+        {
+            "id": 2,
             "casename":"Public Prosecutor v Parthiban Kanapathy[2019] SGHC 226", 
             "court":"High Court", 
             "charges":[
@@ -29,7 +31,8 @@
             "concurrentOrSerial":"Serial" ,
             "numOfCharges":"5"
         },
-        { 
+        {
+            "id": 3,
             "casename":"Public Prosecutor v P Mageswaran and another appeal[2019] SGCA 22", 
             "court":"Court of Appeal", 
             "charges":[
@@ -43,7 +46,8 @@
             "concurrentOrSerial":"Serial" ,
             "numOfCharges":"1"
         },
-        { 
+        {
+            "id": 4,
             "casename":"Pram Nair v Public Prosecutor[2017] SGCA 56", 
             "court":"Court of Appeal", 
             "charges":[
@@ -58,7 +62,8 @@
             "concurrentOrSerial":"Serial" ,
             "numOfCharges":"2"
         },
-        { 
+        {
+            "id": 5,
             "casename":"Pham Duyen Quyen v Public Prosecutor[2017] SGCA 39", 
             "court":"Court of Appeal", 
             "charges":[
@@ -71,7 +76,8 @@
             "concurrentOrSerial":"Serial",
             "numOfCharges":"1"
         },
-        { 
+        {
+            "id": 6,
             "casename":"Ng Soon Kim v Public Prosecutor[2019] SGHC 247", 
             "court":"High Court", 
             "charges":[
