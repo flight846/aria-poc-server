@@ -10,7 +10,7 @@
             "judge":"Vincent Hoong JC" , 
             "date":"25 November 2019" ,
             "sentence":"one year imprisonment" ,
-            "concurrent/serial":"Serial" ,
+            "concurrentOrSerial":"Serial" ,
             "numOfCharges":"5" 
         },
         { 
@@ -22,7 +22,7 @@
             "judge":"Chan Seng Onn J" , 
             "date":"24 September 2019" ,
             "sentence":"one year imprisonment" ,
-            "concurrent/serial":"Serial" ,
+            "concurrentOrSerial":"Serial" ,
             "numOfCharges":"5"
         },
         { 
@@ -34,7 +34,7 @@
             "judge":"Steven Chong JA" , 
             "date":"11 April 2019" ,
             "sentence":"Sentence remains at 18 years imprisonment" ,
-            "concurrent/serial":"Serial" ,
+            "concurrentOrSerial":"Serial" ,
             "numOfCharges":"1"
         },
         { 
@@ -47,7 +47,7 @@
             "judge":"Chao Hick Tin JA" , 
             "date":"25 September 2017" ,
             "sentence":"Remains at 11 years and 19 days and the total number of strokes of caning is reduced from 12 to 10" ,
-            "concurrent/serial":"Serial" ,
+            "concurrentOrSerial":"Serial" ,
             "numOfCharges":"2"
         },
         { 
@@ -58,7 +58,7 @@
             "judge":"Tay Yong Kwang JA" , 
             "date":"19 June 2017" ,
             "sentence":" affirmed the Judge’s decision on conviction and sentence and dismissed the appeal" ,
-            "concurrent/serial":"Serial",
+            "concurrentOrSerial":"Serial",
             "numOfCharges":"1"
         },
         { 
@@ -72,7 +72,7 @@
             "sentence":[
                 "seven months’ imprisonment in its place", "driving disqualification of nine months"
             ],
-            "concurrent/serial":"Serial" ,
+            "concurrentOrSerial":"Serial" ,
             "numOfCharges":"1"
         }
     ]
