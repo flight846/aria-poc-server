@@ -9,7 +9,9 @@
             ],
             "judge":"Vincent Hoong JC" , 
             "date":"25 November 2019" ,
-            "sentence":"one year imprisonment" ,
+            "sentence":[
+                "one year imprisonment" 
+            ],
             "concurrentOrSerial":"Serial" ,
             "numOfCharges":"5" 
         },
@@ -21,7 +23,9 @@
             ],
             "judge":"Chan Seng Onn J" , 
             "date":"24 September 2019" ,
-            "sentence":"one year imprisonment" ,
+            "sentence":[
+                "one year imprisonment"
+            ],
             "concurrentOrSerial":"Serial" ,
             "numOfCharges":"5"
         },
@@ -33,7 +37,9 @@
             ] ,
             "judge":"Steven Chong JA" , 
             "date":"11 April 2019" ,
-            "sentence":"Sentence remains at 18 years imprisonment" ,
+            "sentence":[
+                "Sentence remains at 18 years imprisonment"
+            ],
             "concurrentOrSerial":"Serial" ,
             "numOfCharges":"1"
         },
@@ -46,7 +52,9 @@
             ],
             "judge":"Chao Hick Tin JA" , 
             "date":"25 September 2017" ,
-            "sentence":"Remains at 11 years and 19 days and the total number of strokes of caning is reduced from 12 to 10" ,
+            "sentence":[
+                "Remains at 11 years and 19 days and the total number of strokes of caning is reduced from 12 to 10"
+            ] ,
             "concurrentOrSerial":"Serial" ,
             "numOfCharges":"2"
         },
@@ -57,7 +65,9 @@
                 "under s 7 of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”)"],
             "judge":"Tay Yong Kwang JA" , 
             "date":"19 June 2017" ,
-            "sentence":" affirmed the Judge’s decision on conviction and sentence and dismissed the appeal" ,
+            "sentence":[
+                " affirmed the Judge’s decision on conviction and sentence and dismissed the appeal" 
+            ],
             "concurrentOrSerial":"Serial",
             "numOfCharges":"1"
         },
