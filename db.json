@@ -91,6 +91,26 @@
             "concurrentOrSerial":"Serial" ,
             "numOfCharges":"1"
         }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "username": "superAdmin",
+            "name": "Super Admin",
+            "avatar": "https://randomuser.me/api/portraits/men/62.jpg",
+            "nickname": "SA",
+            "password": "secret",
+            "settings": []
+        },
+        {
+            "id": 2,
+            "username": "admin",
+            "name": "Admin",
+            "avatar": "https://randomuser.me/api/portraits/women/44.jpg",
+            "nickname": "A",
+            "password": "adminadmin",
+            "settings": []
+        }
     ]
 }
 
