@@ -4,7 +4,8 @@
   "description": "Simple json-base database to deploy to Heroku",
   "main": "server.js",
   "scripts": {
-    "start": "json-server --watch ./db.json",
+    "start": "concurrently \"node server.js\" \"json-server --watch ./db.json\"",
+    "start-db": "json-server --watch ./db.json",
     "start-auth": "node server.js",
     "dev": "nodemon server.js"
   },
@@ -19,5 +20,8 @@
   },
   "engines": {
     "node": "10.16.3"
+  },
+  "devDependencies": {
+    "concurrently": "^5.1.0"
   }
 }
