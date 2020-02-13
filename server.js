@@ -12,8 +12,8 @@ server.use(bodyParser.json());
 server.use(jsonServer.defaults());
 
 const SECRET_KEY = 'feb1986feb1986';
-
 const expiresIn = '1h';
+const PORT = process.env.PORT || 3000;
 
 // Create a token from a payload
 function createToken(payload) {
@@ -143,6 +143,6 @@ server.use(/^(?!\/auth).*$/, (req, res, next) => {
 
 server.use(router);
 
-server.listen(3000, () => {
+server.listen(PORT, () => {
     console.log('Run Auth API Server');
 });
