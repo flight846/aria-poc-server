@@ -4,7 +4,7 @@
   "description": "Simple json-base database to deploy to Heroku",
   "main": "server.js",
   "scripts": {
-    "start": "json-server --watch db.json",
+    "start": "node server.js",
     "dev": "nodemon server.js"
   },
   "keywords": [
@@ -12,8 +12,7 @@
   ],
   "author": "Jesper Orb",
   "license": "ISC",
-  "dependencies": {},
-  "devDependencies": {
-    "json-server": "^0.16.0"
+  "dependencies": {
+    "json-server": "^0.12.1"
   }
 }
