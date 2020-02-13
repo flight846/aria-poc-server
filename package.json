@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "json-server --watch ./db.json",
-    "start-auth": "node server.js",
+    "start:auth": "node server.js",
     "dev": "nodemon server.js"
   },
   "keywords": [
