@@ -1,0 +1,23 @@
+{
+    "users": [{
+            "id": 1,
+            "username": "superAdmin",
+            "name": "Super Admin",
+            "email": "superadmin@aria-poc.com",
+            "avatar": "https://randomuser.me/api/portraits/men/62.jpg",
+            "nickname": "SA",
+            "password": "secret",
+            "settings": []
+        },
+        {
+            "id": 2,
+            "username": "admin",
+            "name": "Admin",
+            "email": "admin@aria-poc.com",
+            "avatar": "https://randomuser.me/api/portraits/women/44.jpg",
+            "nickname": "A",
+            "password": "adminadmin",
+            "settings": []
+        }
+    ]
+}

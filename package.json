@@ -4,7 +4,7 @@
   "description": "Simple json-base database to deploy to Heroku",
   "main": "server.js",
   "scripts": {
-    "start": "json-server db.json -m ./node_modules/json-server-auth",
+    "start": "json-server --watch db.json",
     "dev": "nodemon server.js"
   },
   "keywords": [
@@ -14,7 +14,6 @@
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
-    "json-server": "^0.16.0",
-    "json-server-auth": "^1.2.1"
+    "json-server": "^0.16.0"
   }
 }
