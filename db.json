@@ -1,100 +1,5855 @@
 {
-    "cases": [
-        {
-            "id": 1, 
-            "casename": "Public Prosecutor v Lim Chai Heng[2019] SGHC 272", 
-            "court": "High Court", 
-            "charges": [ 
-                "For driving against the flow of traffic and causing a fatal accident, the accused person was charged under s 304A(a) of the Penal Code (Cap 224, 2008 Rev Ed) (“C”) for doing a rash act not amounting to culpable homicide.The Prosecution proceeded with this sole charge(“the offence”).",
-                "Four other charges relating to the hurt or grievous hurt caused by the accused person’s rash act which endangered the life or the personal safety of V1 to V4 (under ss 337(a) and 338(a) of the PC) were taken into consideration for the purposes of sentencing"
-            ],
-            "judge":"Vincent Hoong JC" , 
-            "date":"25 November 2019" ,
-            "sentence":[
-                "one year imprisonment" 
-            ],
-            "concurrentOrSerial":"Serial" ,
-            "numOfCharges":"5" 
+    "cases": [{
+            "_id": "5e494f5167d9dac3ba88c05d",
+            "caseId": "caseId-26",
+            "year": "11/09/1975",
+            "sentence": 28,
+            "numOfCharge": 21
         },
         {
-            "id": 2,
-            "casename":"Public Prosecutor v Parthiban Kanapathy[2019] SGHC 226", 
-            "court":"High Court", 
-            "charges":[
-                "importation of not less than 24.95g of diamorphine on 4 February 2012 at or about 2.29 pm, at Woodlands Checkpoint, Singapore."
-            ],
-            "judge":"Chan Seng Onn J" , 
-            "date":"24 September 2019" ,
-            "sentence":[
-                "one year imprisonment"
-            ],
-            "concurrentOrSerial":"Serial" ,
-            "numOfCharges":"5"
+            "_id": "5e494f51ca0e95fbcb86cfbe",
+            "caseId": "caseId-35",
+            "year": "09/03/2011",
+            "sentence": 35,
+            "numOfCharge": 2
         },
         {
-            "id": 3,
-            "casename":"Public Prosecutor v P Mageswaran and another appeal[2019] SGCA 22", 
-            "court":"Court of Appeal", 
-            "charges":[
-                "committing an act by which death was caused with the intention of causing the victim’s death – the most serious form of mens rea under s 299."
-            ] ,
-            "judge":"Steven Chong JA" , 
-            "date":"11 April 2019" ,
-            "sentence":[
-                "Sentence remains at 18 years imprisonment"
-            ],
-            "concurrentOrSerial":"Serial" ,
-            "numOfCharges":"1"
+            "_id": "5e494f51c8b8b23be1c95a9a",
+            "caseId": "caseId-179",
+            "year": "07/12/1991",
+            "sentence": 5,
+            "numOfCharge": 21
         },
         {
-            "id": 4,
-            "casename":"Pram Nair v Public Prosecutor[2017] SGCA 56", 
-            "court":"Court of Appeal", 
-            "charges":[
-                "rape under s 375(1)(a) of the Penal Code (Cap 224, 2008 Rev Ed), which is punishable under s 375(2)",
-                "sexual assault by penetration under s 376(2)(a), punishable under s 376(3)"
-            ],
-            "judge":"Chao Hick Tin JA" , 
-            "date":"25 September 2017" ,
-            "sentence":[
-                "Remains at 11 years and 19 days and the total number of strokes of caning is reduced from 12 to 10"
-            ] ,
-            "concurrentOrSerial":"Serial" ,
-            "numOfCharges":"2"
+            "_id": "5e494f51f256f86d463dc8fb",
+            "caseId": "caseId-87",
+            "year": "27/01/2002",
+            "sentence": 31,
+            "numOfCharge": 20
         },
         {
-            "id": 5,
-            "casename":"Pham Duyen Quyen v Public Prosecutor[2017] SGCA 39", 
-            "court":"Court of Appeal", 
-            "charges":[
-                "under s 7 of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”)"],
-            "judge":"Tay Yong Kwang JA" , 
-            "date":"19 June 2017" ,
-            "sentence":[
-                " affirmed the Judge’s decision on conviction and sentence and dismissed the appeal" 
-            ],
-            "concurrentOrSerial":"Serial",
-            "numOfCharges":"1"
+            "_id": "5e494f5143798e6fbd34982e",
+            "caseId": "caseId-110",
+            "year": "10/02/2007",
+            "sentence": 3,
+            "numOfCharge": 20
         },
         {
-            "id": 6,
-            "casename":"Ng Soon Kim v Public Prosecutor[2019] SGHC 247", 
-            "court":"High Court", 
-            "charges":[
-                "voluntarily causing hurt by means of fire under s 324 of the Penal Code (Cap 224, 2008 Rev Ed) (“Penal Code”)"
-            ] ,
-            "judge":"Sundaresh Menon CJ" , 
-            "date":"17 October 2019" ,
-            "sentence":[
-                "seven months’ imprisonment in its place", "driving disqualification of nine months"
-            ],
-            "concurrentOrSerial":"Serial" ,
-            "numOfCharges":"1"
+            "_id": "5e494f51182999cf2f3798d9",
+            "caseId": "caseId-17",
+            "year": "01/12/1980",
+            "sentence": 1,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f51c3e2489c56d96c83",
+            "caseId": "caseId-29",
+            "year": "09/07/1998",
+            "sentence": 1,
+            "numOfCharge": 35
+        },
+        {
+            "_id": "5e494f51892b40eab20b46dc",
+            "caseId": "caseId-104",
+            "year": "26/11/1976",
+            "sentence": 9,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f51b2eb1533e287a7d2",
+            "caseId": "caseId-12",
+            "year": "25/10/2012",
+            "sentence": 39,
+            "numOfCharge": 10
+        },
+        {
+            "_id": "5e494f51e3956fc4eff1cc0a",
+            "caseId": "caseId-159",
+            "year": "15/04/2010",
+            "sentence": 23,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f51f97aee1341a469ac",
+            "caseId": "caseId-5",
+            "year": "18/09/1988",
+            "sentence": 8,
+            "numOfCharge": 4
+        },
+        {
+            "_id": "5e494f51695831555ecd4228",
+            "caseId": "caseId-147",
+            "year": "22/12/1995",
+            "sentence": 16,
+            "numOfCharge": 1
+        },
+        {
+            "_id": "5e494f5177f46099877e9a13",
+            "caseId": "caseId-17",
+            "year": "01/01/1974",
+            "sentence": 9,
+            "numOfCharge": 5
+        },
+        {
+            "_id": "5e494f51993b165b7982f738",
+            "caseId": "caseId-65",
+            "year": "19/09/2019",
+            "sentence": 12,
+            "numOfCharge": 12
+        },
+        {
+            "_id": "5e494f518542868a7bf52ff4",
+            "caseId": "caseId-164",
+            "year": "26/05/1986",
+            "sentence": 40,
+            "numOfCharge": 17
+        },
+        {
+            "_id": "5e494f5104b4708b64d1c47f",
+            "caseId": "caseId-40",
+            "year": "11/02/1991",
+            "sentence": 29,
+            "numOfCharge": 23
+        },
+        {
+            "_id": "5e494f51c2014768911b20d4",
+            "caseId": "caseId-119",
+            "year": "28/08/2013",
+            "sentence": 35,
+            "numOfCharge": 38
+        },
+        {
+            "_id": "5e494f518302b446c2272586",
+            "caseId": "caseId-143",
+            "year": "29/11/2018",
+            "sentence": 36,
+            "numOfCharge": 34
+        },
+        {
+            "_id": "5e494f5173983b9c8f94898f",
+            "caseId": "caseId-149",
+            "year": "07/12/1997",
+            "sentence": 15,
+            "numOfCharge": 13
+        },
+        {
+            "_id": "5e494f51de7cea6bc34cc96a",
+            "caseId": "caseId-149",
+            "year": "27/08/2016",
+            "sentence": 40,
+            "numOfCharge": 40
+        },
+        {
+            "_id": "5e494f51b24f4dbd8bf3095f",
+            "caseId": "caseId-32",
+            "year": "15/02/1982",
+            "sentence": 2,
+            "numOfCharge": 29
+        },
+        {
+            "_id": "5e494f51b23dad8667c723d3",
+            "caseId": "caseId-18",
+            "year": "30/08/2010",
+            "sentence": 12,
+            "numOfCharge": 31
+        },
+        {
+            "_id": "5e494f5125d5551f6acf5592",
+            "caseId": "caseId-30",
+            "year": "26/03/1995",
+            "sentence": 14,
+            "numOfCharge": 17
+        },
+        {
+            "_id": "5e494f512c1133eda6965f27",
+            "caseId": "caseId-151",
+            "year": "06/11/2007",
+            "sentence": 11,
+            "numOfCharge": 10
+        },
+        {
+            "_id": "5e494f51c744f4ba0eaa4190",
+            "caseId": "caseId-116",
+            "year": "31/05/1982",
+            "sentence": 21,
+            "numOfCharge": 24
+        },
+        {
+            "_id": "5e494f51fa6ad85225b07bad",
+            "caseId": "caseId-163",
+            "year": "09/11/2014",
+            "sentence": 31,
+            "numOfCharge": 23
+        },
+        {
+            "_id": "5e494f51e48cd04219ba60ae",
+            "caseId": "caseId-147",
+            "year": "10/07/2016",
+            "sentence": 5,
+            "numOfCharge": 24
+        },
+        {
+            "_id": "5e494f512e1d46c14bfc610a",
+            "caseId": "caseId-127",
+            "year": "22/08/1981",
+            "sentence": 10,
+            "numOfCharge": 30
+        },
+        {
+            "_id": "5e494f51411896952bb9dff7",
+            "caseId": "caseId-89",
+            "year": "19/11/1994",
+            "sentence": 35,
+            "numOfCharge": 4
+        },
+        {
+            "_id": "5e494f51806a0b993d1d5849",
+            "caseId": "caseId-120",
+            "year": "26/08/1982",
+            "sentence": 38,
+            "numOfCharge": 32
+        },
+        {
+            "_id": "5e494f51aec7b231063545e9",
+            "caseId": "caseId-182",
+            "year": "04/04/1973",
+            "sentence": 3,
+            "numOfCharge": 37
+        },
+        {
+            "_id": "5e494f51a535006946cac21f",
+            "caseId": "caseId-1",
+            "year": "27/05/2014",
+            "sentence": 26,
+            "numOfCharge": 25
+        },
+        {
+            "_id": "5e494f517983306deb74444d",
+            "caseId": "caseId-34",
+            "year": "12/08/2015",
+            "sentence": 12,
+            "numOfCharge": 32
+        },
+        {
+            "_id": "5e494f5170ca8096b77a46ef",
+            "caseId": "caseId-199",
+            "year": "10/08/2017",
+            "sentence": 21,
+            "numOfCharge": 14
+        },
+        {
+            "_id": "5e494f51c9777210daea6a6e",
+            "caseId": "caseId-41",
+            "year": "21/10/2011",
+            "sentence": 28,
+            "numOfCharge": 40
+        },
+        {
+            "_id": "5e494f5102317992c8d914a8",
+            "caseId": "caseId-57",
+            "year": "04/12/2016",
+            "sentence": 35,
+            "numOfCharge": 10
+        },
+        {
+            "_id": "5e494f513b2d5129c512ef4e",
+            "caseId": "caseId-190",
+            "year": "05/12/1988",
+            "sentence": 4,
+            "numOfCharge": 18
+        },
+        {
+            "_id": "5e494f517e248efb82b08208",
+            "caseId": "caseId-147",
+            "year": "27/05/1989",
+            "sentence": 36,
+            "numOfCharge": 6
+        },
+        {
+            "_id": "5e494f518ab5fbfa6dc2f16b",
+            "caseId": "caseId-58",
+            "year": "30/07/2012",
+            "sentence": 10,
+            "numOfCharge": 23
+        },
+        {
+            "_id": "5e494f51cf769937c5755e96",
+            "caseId": "caseId-155",
+            "year": "06/06/2006",
+            "sentence": 17,
+            "numOfCharge": 11
+        },
+        {
+            "_id": "5e494f51e6ff78d91b0dcb7c",
+            "caseId": "caseId-5",
+            "year": "22/02/2010",
+            "sentence": 20,
+            "numOfCharge": 17
+        },
+        {
+            "_id": "5e494f51498c031ece8f1f2b",
+            "caseId": "caseId-198",
+            "year": "02/01/1991",
+            "sentence": 17,
+            "numOfCharge": 16
+        },
+        {
+            "_id": "5e494f5143e4b909009e6c97",
+            "caseId": "caseId-172",
+            "year": "07/07/2000",
+            "sentence": 16,
+            "numOfCharge": 34
+        },
+        {
+            "_id": "5e494f51205b30f8ad972c4d",
+            "caseId": "caseId-25",
+            "year": "28/05/2005",
+            "sentence": 23,
+            "numOfCharge": 22
+        },
+        {
+            "_id": "5e494f513934512737ff057e",
+            "caseId": "caseId-195",
+            "year": "01/06/1997",
+            "sentence": 15,
+            "numOfCharge": 11
+        },
+        {
+            "_id": "5e494f519ccab90a437d9d85",
+            "caseId": "caseId-199",
+            "year": "01/02/2014",
+            "sentence": 6,
+            "numOfCharge": 10
+        },
+        {
+            "_id": "5e494f5112459fa8f5701c9f",
+            "caseId": "caseId-75",
+            "year": "24/09/2002",
+            "sentence": 2,
+            "numOfCharge": 34
+        },
+        {
+            "_id": "5e494f516051259ad743bce3",
+            "caseId": "caseId-35",
+            "year": "25/09/1992",
+            "sentence": 13,
+            "numOfCharge": 22
+        },
+        {
+            "_id": "5e494f51d926e5161c685a7c",
+            "caseId": "caseId-60",
+            "year": "31/03/1991",
+            "sentence": 14,
+            "numOfCharge": 20
+        },
+        {
+            "_id": "5e494f511939161b30ebd13c",
+            "caseId": "caseId-123",
+            "year": "17/11/2004",
+            "sentence": 36,
+            "numOfCharge": 34
+        },
+        {
+            "_id": "5e494f51d1a566ab98970fdf",
+            "caseId": "caseId-140",
+            "year": "10/10/1971",
+            "sentence": 32,
+            "numOfCharge": 35
+        },
+        {
+            "_id": "5e494f51faf985a1c371784b",
+            "caseId": "caseId-7",
+            "year": "15/01/2004",
+            "sentence": 9,
+            "numOfCharge": 10
+        },
+        {
+            "_id": "5e494f5166fc96648f719b04",
+            "caseId": "caseId-30",
+            "year": "11/11/1996",
+            "sentence": 2,
+            "numOfCharge": 16
+        },
+        {
+            "_id": "5e494f51e977189f5db6cf5f",
+            "caseId": "caseId-183",
+            "year": "26/08/1991",
+            "sentence": 26,
+            "numOfCharge": 32
+        },
+        {
+            "_id": "5e494f51857c6baccc082fbb",
+            "caseId": "caseId-134",
+            "year": "31/01/1989",
+            "sentence": 28,
+            "numOfCharge": 38
+        },
+        {
+            "_id": "5e494f51df3ee023c936a43b",
+            "caseId": "caseId-20",
+            "year": "19/05/1972",
+            "sentence": 20,
+            "numOfCharge": 22
+        },
+        {
+            "_id": "5e494f51c4cc0ae887a9129c",
+            "caseId": "caseId-149",
+            "year": "20/12/2009",
+            "sentence": 11,
+            "numOfCharge": 27
+        },
+        {
+            "_id": "5e494f51339b85b6fac6a66d",
+            "caseId": "caseId-179",
+            "year": "13/11/1972",
+            "sentence": 24,
+            "numOfCharge": 2
+        },
+        {
+            "_id": "5e494f513f2de2881c7eee20",
+            "caseId": "caseId-125",
+            "year": "05/07/1979",
+            "sentence": 25,
+            "numOfCharge": 1
+        },
+        {
+            "_id": "5e494f51d656d279e53a76b5",
+            "caseId": "caseId-153",
+            "year": "14/10/1989",
+            "sentence": 40,
+            "numOfCharge": 12
+        },
+        {
+            "_id": "5e494f511eef47a5cefb5296",
+            "caseId": "caseId-13",
+            "year": "14/02/1998",
+            "sentence": 28,
+            "numOfCharge": 10
+        },
+        {
+            "_id": "5e494f5138bfef303b414956",
+            "caseId": "caseId-68",
+            "year": "25/08/1996",
+            "sentence": 40,
+            "numOfCharge": 37
+        },
+        {
+            "_id": "5e494f51aea05a49835e2600",
+            "caseId": "caseId-123",
+            "year": "12/10/1970",
+            "sentence": 37,
+            "numOfCharge": 34
+        },
+        {
+            "_id": "5e494f51ae5c360eceea243d",
+            "caseId": "caseId-24",
+            "year": "27/09/2016",
+            "sentence": 35,
+            "numOfCharge": 26
+        },
+        {
+            "_id": "5e494f51ed85d1c4da4d8dfa",
+            "caseId": "caseId-71",
+            "year": "04/09/1987",
+            "sentence": 7,
+            "numOfCharge": 38
+        },
+        {
+            "_id": "5e494f51754b9c7a84179b12",
+            "caseId": "caseId-169",
+            "year": "27/10/1993",
+            "sentence": 30,
+            "numOfCharge": 26
+        },
+        {
+            "_id": "5e494f5155b6153f06257c4d",
+            "caseId": "caseId-189",
+            "year": "21/12/1988",
+            "sentence": 1,
+            "numOfCharge": 31
+        },
+        {
+            "_id": "5e494f51ee0700470dd6a364",
+            "caseId": "caseId-107",
+            "year": "15/03/1995",
+            "sentence": 13,
+            "numOfCharge": 28
+        },
+        {
+            "_id": "5e494f5126f71e2dd7b57b7f",
+            "caseId": "caseId-103",
+            "year": "04/09/2005",
+            "sentence": 34,
+            "numOfCharge": 10
+        },
+        {
+            "_id": "5e494f519a2ac080bbea48b1",
+            "caseId": "caseId-54",
+            "year": "27/08/2012",
+            "sentence": 15,
+            "numOfCharge": 27
+        },
+        {
+            "_id": "5e494f5145b6ee9f432ac736",
+            "caseId": "caseId-166",
+            "year": "29/04/2013",
+            "sentence": 14,
+            "numOfCharge": 7
+        },
+        {
+            "_id": "5e494f51b51692a2fbc96ae9",
+            "caseId": "caseId-101",
+            "year": "09/02/2016",
+            "sentence": 3,
+            "numOfCharge": 11
+        },
+        {
+            "_id": "5e494f5179557c6ca51fed17",
+            "caseId": "caseId-191",
+            "year": "11/06/1980",
+            "sentence": 11,
+            "numOfCharge": 17
+        },
+        {
+            "_id": "5e494f51c79066a17f4d1a8f",
+            "caseId": "caseId-0",
+            "year": "02/09/1981",
+            "sentence": 38,
+            "numOfCharge": 11
+        },
+        {
+            "_id": "5e494f51eb940fc584819772",
+            "caseId": "caseId-135",
+            "year": "16/06/2018",
+            "sentence": 31,
+            "numOfCharge": 8
+        },
+        {
+            "_id": "5e494f513a0577680cd823af",
+            "caseId": "caseId-150",
+            "year": "30/07/1980",
+            "sentence": 33,
+            "numOfCharge": 34
+        },
+        {
+            "_id": "5e494f51e2384caffa5b5e6c",
+            "caseId": "caseId-59",
+            "year": "27/12/2009",
+            "sentence": 12,
+            "numOfCharge": 31
+        },
+        {
+            "_id": "5e494f515d574a4f4d2975f7",
+            "caseId": "caseId-186",
+            "year": "30/11/1998",
+            "sentence": 24,
+            "numOfCharge": 5
+        },
+        {
+            "_id": "5e494f515281194dfb0e6add",
+            "caseId": "caseId-117",
+            "year": "15/08/1992",
+            "sentence": 30,
+            "numOfCharge": 35
+        },
+        {
+            "_id": "5e494f519b551ae1a39a73c5",
+            "caseId": "caseId-165",
+            "year": "26/02/1997",
+            "sentence": 3,
+            "numOfCharge": 25
+        },
+        {
+            "_id": "5e494f5199b56cf1ff48c91d",
+            "caseId": "caseId-132",
+            "year": "10/08/2001",
+            "sentence": 15,
+            "numOfCharge": 13
+        },
+        {
+            "_id": "5e494f517af19b14372ddc98",
+            "caseId": "caseId-26",
+            "year": "04/10/1994",
+            "sentence": 27,
+            "numOfCharge": 40
+        },
+        {
+            "_id": "5e494f51dd9fb1299fdc9ffc",
+            "caseId": "caseId-132",
+            "year": "15/05/1982",
+            "sentence": 25,
+            "numOfCharge": 32
+        },
+        {
+            "_id": "5e494f51bc16f7e7397009ec",
+            "caseId": "caseId-75",
+            "year": "11/12/2011",
+            "sentence": 2,
+            "numOfCharge": 13
+        },
+        {
+            "_id": "5e494f51b6132d96efd95ec5",
+            "caseId": "caseId-107",
+            "year": "12/04/2013",
+            "sentence": 6,
+            "numOfCharge": 37
+        },
+        {
+            "_id": "5e494f51be7b7433ee6077c7",
+            "caseId": "caseId-125",
+            "year": "26/10/2009",
+            "sentence": 21,
+            "numOfCharge": 31
+        },
+        {
+            "_id": "5e494f51d6c6cff3fd30b6a2",
+            "caseId": "caseId-166",
+            "year": "10/10/1997",
+            "sentence": 18,
+            "numOfCharge": 9
+        },
+        {
+            "_id": "5e494f51fd19c2d6c36c24ba",
+            "caseId": "caseId-95",
+            "year": "26/12/2008",
+            "sentence": 8,
+            "numOfCharge": 29
+        },
+        {
+            "_id": "5e494f5104bed59c610da16f",
+            "caseId": "caseId-176",
+            "year": "28/07/1983",
+            "sentence": 29,
+            "numOfCharge": 2
+        },
+        {
+            "_id": "5e494f510f6881bd3a7b4294",
+            "caseId": "caseId-63",
+            "year": "14/10/1976",
+            "sentence": 21,
+            "numOfCharge": 38
+        },
+        {
+            "_id": "5e494f512e19840e183d2be1",
+            "caseId": "caseId-150",
+            "year": "24/08/1988",
+            "sentence": 34,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f513b31760b798ab038",
+            "caseId": "caseId-34",
+            "year": "19/08/1976",
+            "sentence": 11,
+            "numOfCharge": 7
+        },
+        {
+            "_id": "5e494f513007cba3f0a0e7f4",
+            "caseId": "caseId-90",
+            "year": "09/03/1994",
+            "sentence": 18,
+            "numOfCharge": 36
+        },
+        {
+            "_id": "5e494f510bcb712c6977fc3c",
+            "caseId": "caseId-23",
+            "year": "01/09/1977",
+            "sentence": 27,
+            "numOfCharge": 37
+        },
+        {
+            "_id": "5e494f5135361442b972058d",
+            "caseId": "caseId-124",
+            "year": "16/05/2017",
+            "sentence": 21,
+            "numOfCharge": 17
+        },
+        {
+            "_id": "5e494f514adffe5002062163",
+            "caseId": "caseId-170",
+            "year": "10/11/1989",
+            "sentence": 22,
+            "numOfCharge": 29
+        },
+        {
+            "_id": "5e494f5118bbc58e77546d16",
+            "caseId": "caseId-25",
+            "year": "29/07/1996",
+            "sentence": 19,
+            "numOfCharge": 11
+        },
+        {
+            "_id": "5e494f51960ef4276a5879d3",
+            "caseId": "caseId-56",
+            "year": "13/09/1995",
+            "sentence": 30,
+            "numOfCharge": 26
+        },
+        {
+            "_id": "5e494f51094c6219feb1defc",
+            "caseId": "caseId-56",
+            "year": "11/02/1990",
+            "sentence": 20,
+            "numOfCharge": 9
+        },
+        {
+            "_id": "5e494f51bb042d9fd504f51f",
+            "caseId": "caseId-143",
+            "year": "14/10/1997",
+            "sentence": 35,
+            "numOfCharge": 33
+        },
+        {
+            "_id": "5e494f51dcf10b478d8720f2",
+            "caseId": "caseId-169",
+            "year": "30/04/1971",
+            "sentence": 4,
+            "numOfCharge": 23
+        },
+        {
+            "_id": "5e494f519837f0f28b608c1a",
+            "caseId": "caseId-28",
+            "year": "19/09/1976",
+            "sentence": 35,
+            "numOfCharge": 28
+        },
+        {
+            "_id": "5e494f51a381c5949bbb2bee",
+            "caseId": "caseId-160",
+            "year": "07/08/1980",
+            "sentence": 31,
+            "numOfCharge": 9
+        },
+        {
+            "_id": "5e494f51abe3f60f675b4125",
+            "caseId": "caseId-188",
+            "year": "24/03/1998",
+            "sentence": 9,
+            "numOfCharge": 35
+        },
+        {
+            "_id": "5e494f51b4fade2c767eb09b",
+            "caseId": "caseId-94",
+            "year": "27/01/1981",
+            "sentence": 28,
+            "numOfCharge": 27
+        },
+        {
+            "_id": "5e494f516bcaccedc214242f",
+            "caseId": "caseId-61",
+            "year": "16/01/1982",
+            "sentence": 32,
+            "numOfCharge": 28
+        },
+        {
+            "_id": "5e494f5162e478cc3955c0a2",
+            "caseId": "caseId-107",
+            "year": "16/09/2014",
+            "sentence": 33,
+            "numOfCharge": 22
+        },
+        {
+            "_id": "5e494f519181f9e3beca7e23",
+            "caseId": "caseId-42",
+            "year": "21/02/1997",
+            "sentence": 14,
+            "numOfCharge": 15
+        },
+        {
+            "_id": "5e494f5109703038a6a200e9",
+            "caseId": "caseId-186",
+            "year": "26/10/1983",
+            "sentence": 19,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f5125b87b0e57dad011",
+            "caseId": "caseId-133",
+            "year": "28/11/1977",
+            "sentence": 40,
+            "numOfCharge": 27
+        },
+        {
+            "_id": "5e494f5181a5e4b2d5e57f26",
+            "caseId": "caseId-108",
+            "year": "17/09/1990",
+            "sentence": 34,
+            "numOfCharge": 32
+        },
+        {
+            "_id": "5e494f51e451cd6a68fb2689",
+            "caseId": "caseId-141",
+            "year": "06/07/1975",
+            "sentence": 30,
+            "numOfCharge": 6
+        },
+        {
+            "_id": "5e494f511903c7999b389570",
+            "caseId": "caseId-185",
+            "year": "02/12/1973",
+            "sentence": 5,
+            "numOfCharge": 33
+        },
+        {
+            "_id": "5e494f51b7a89cf0e8c1e514",
+            "caseId": "caseId-154",
+            "year": "15/11/1997",
+            "sentence": 40,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f516a76357179112211",
+            "caseId": "caseId-175",
+            "year": "04/10/1977",
+            "sentence": 5,
+            "numOfCharge": 26
+        },
+        {
+            "_id": "5e494f51380edb5bd5cc8a3e",
+            "caseId": "caseId-170",
+            "year": "10/08/1985",
+            "sentence": 40,
+            "numOfCharge": 21
+        },
+        {
+            "_id": "5e494f51a55e183597847f5e",
+            "caseId": "caseId-176",
+            "year": "16/06/2007",
+            "sentence": 9,
+            "numOfCharge": 21
+        },
+        {
+            "_id": "5e494f5176d4613dcd684e0d",
+            "caseId": "caseId-194",
+            "year": "10/10/1971",
+            "sentence": 31,
+            "numOfCharge": 18
+        },
+        {
+            "_id": "5e494f51027af8737eb3af7e",
+            "caseId": "caseId-186",
+            "year": "29/11/2012",
+            "sentence": 40,
+            "numOfCharge": 14
+        },
+        {
+            "_id": "5e494f51c3eaa85d3d74f384",
+            "caseId": "caseId-7",
+            "year": "16/03/1974",
+            "sentence": 25,
+            "numOfCharge": 38
+        },
+        {
+            "_id": "5e494f515a24744c6daaa17f",
+            "caseId": "caseId-21",
+            "year": "28/05/1980",
+            "sentence": 22,
+            "numOfCharge": 3
+        },
+        {
+            "_id": "5e494f5142102c7f0ac502d1",
+            "caseId": "caseId-100",
+            "year": "14/08/1971",
+            "sentence": 1,
+            "numOfCharge": 9
+        },
+        {
+            "_id": "5e494f51b72903a16efb479c",
+            "caseId": "caseId-197",
+            "year": "11/05/2013",
+            "sentence": 14,
+            "numOfCharge": 17
+        },
+        {
+            "_id": "5e494f5113fb69716993b308",
+            "caseId": "caseId-180",
+            "year": "11/07/2002",
+            "sentence": 33,
+            "numOfCharge": 10
+        },
+        {
+            "_id": "5e494f512f6630652e5beb36",
+            "caseId": "caseId-73",
+            "year": "23/10/1984",
+            "sentence": 33,
+            "numOfCharge": 38
+        },
+        {
+            "_id": "5e494f51674fb07062a93cec",
+            "caseId": "caseId-3",
+            "year": "14/06/2003",
+            "sentence": 30,
+            "numOfCharge": 9
+        },
+        {
+            "_id": "5e494f51270560d70139cc16",
+            "caseId": "caseId-0",
+            "year": "25/10/1994",
+            "sentence": 37,
+            "numOfCharge": 14
+        },
+        {
+            "_id": "5e494f510d74cfdf7616bd3a",
+            "caseId": "caseId-47",
+            "year": "06/04/2013",
+            "sentence": 10,
+            "numOfCharge": 15
+        },
+        {
+            "_id": "5e494f5146232b6e8b2df925",
+            "caseId": "caseId-171",
+            "year": "20/08/1987",
+            "sentence": 30,
+            "numOfCharge": 20
+        },
+        {
+            "_id": "5e494f5150d7b128768d3bf5",
+            "caseId": "caseId-151",
+            "year": "29/10/2011",
+            "sentence": 15,
+            "numOfCharge": 14
+        },
+        {
+            "_id": "5e494f5100de6842331a4e5a",
+            "caseId": "caseId-38",
+            "year": "30/07/1977",
+            "sentence": 19,
+            "numOfCharge": 36
+        },
+        {
+            "_id": "5e494f513b96f45e7544f0a1",
+            "caseId": "caseId-92",
+            "year": "08/04/1970",
+            "sentence": 20,
+            "numOfCharge": 12
+        },
+        {
+            "_id": "5e494f51ac09906e5d042e4b",
+            "caseId": "caseId-12",
+            "year": "17/07/1976",
+            "sentence": 12,
+            "numOfCharge": 30
+        },
+        {
+            "_id": "5e494f516d2f8b66a0d8c8b9",
+            "caseId": "caseId-144",
+            "year": "18/01/1996",
+            "sentence": 28,
+            "numOfCharge": 31
+        },
+        {
+            "_id": "5e494f51f3f2841c24ee7cf2",
+            "caseId": "caseId-193",
+            "year": "28/03/1986",
+            "sentence": 31,
+            "numOfCharge": 29
+        },
+        {
+            "_id": "5e494f5157717db45e69ed8e",
+            "caseId": "caseId-116",
+            "year": "22/06/1977",
+            "sentence": 23,
+            "numOfCharge": 26
+        },
+        {
+            "_id": "5e494f516f124b257e89dda9",
+            "caseId": "caseId-48",
+            "year": "10/09/2001",
+            "sentence": 1,
+            "numOfCharge": 27
+        },
+        {
+            "_id": "5e494f51d9e275f3e3e99aa4",
+            "caseId": "caseId-64",
+            "year": "11/08/2013",
+            "sentence": 18,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f5173ce4b66db8b7838",
+            "caseId": "caseId-73",
+            "year": "16/09/1992",
+            "sentence": 8,
+            "numOfCharge": 6
+        },
+        {
+            "_id": "5e494f51db384995b0a4ea02",
+            "caseId": "caseId-17",
+            "year": "17/01/1980",
+            "sentence": 20,
+            "numOfCharge": 30
+        },
+        {
+            "_id": "5e494f513656ac87e29e44ba",
+            "caseId": "caseId-149",
+            "year": "30/06/1992",
+            "sentence": 37,
+            "numOfCharge": 33
+        },
+        {
+            "_id": "5e494f513ce2d13ca5660a82",
+            "caseId": "caseId-116",
+            "year": "07/02/1997",
+            "sentence": 35,
+            "numOfCharge": 10
+        },
+        {
+            "_id": "5e494f512744cb72081f5bd8",
+            "caseId": "caseId-153",
+            "year": "15/09/1982",
+            "sentence": 24,
+            "numOfCharge": 29
+        },
+        {
+            "_id": "5e494f51d290f9dffba2b872",
+            "caseId": "caseId-61",
+            "year": "27/07/1990",
+            "sentence": 18,
+            "numOfCharge": 21
+        },
+        {
+            "_id": "5e494f51fc0e2fefca7b1129",
+            "caseId": "caseId-130",
+            "year": "06/08/1974",
+            "sentence": 13,
+            "numOfCharge": 25
+        },
+        {
+            "_id": "5e494f516dba8540162e62a7",
+            "caseId": "caseId-199",
+            "year": "22/09/2013",
+            "sentence": 16,
+            "numOfCharge": 14
+        },
+        {
+            "_id": "5e494f5143111b49bf9620b8",
+            "caseId": "caseId-103",
+            "year": "24/11/1989",
+            "sentence": 32,
+            "numOfCharge": 12
+        },
+        {
+            "_id": "5e494f518872d3bde265e0d2",
+            "caseId": "caseId-128",
+            "year": "23/01/1980",
+            "sentence": 15,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f518031c9c3e4887429",
+            "caseId": "caseId-34",
+            "year": "14/07/1981",
+            "sentence": 9,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f5127749819cc0812a6",
+            "caseId": "caseId-102",
+            "year": "26/08/2008",
+            "sentence": 2,
+            "numOfCharge": 32
+        },
+        {
+            "_id": "5e494f517874338dc37b26bc",
+            "caseId": "caseId-75",
+            "year": "26/05/1994",
+            "sentence": 1,
+            "numOfCharge": 14
+        },
+        {
+            "_id": "5e494f516090763e15e2d7e5",
+            "caseId": "caseId-180",
+            "year": "23/04/2014",
+            "sentence": 3,
+            "numOfCharge": 11
+        },
+        {
+            "_id": "5e494f515fec77506198b2b3",
+            "caseId": "caseId-43",
+            "year": "13/05/2001",
+            "sentence": 1,
+            "numOfCharge": 17
+        },
+        {
+            "_id": "5e494f51c3dc428221d3292f",
+            "caseId": "caseId-28",
+            "year": "25/07/1985",
+            "sentence": 28,
+            "numOfCharge": 29
+        },
+        {
+            "_id": "5e494f51e450d43b00fce2a1",
+            "caseId": "caseId-26",
+            "year": "02/10/2011",
+            "sentence": 3,
+            "numOfCharge": 22
+        },
+        {
+            "_id": "5e494f511d993244d9a8c38c",
+            "caseId": "caseId-196",
+            "year": "23/11/1998",
+            "sentence": 15,
+            "numOfCharge": 31
+        },
+        {
+            "_id": "5e494f5172d7b0409954d43b",
+            "caseId": "caseId-148",
+            "year": "24/03/1998",
+            "sentence": 4,
+            "numOfCharge": 30
+        },
+        {
+            "_id": "5e494f51d3173d2d15b40c34",
+            "caseId": "caseId-59",
+            "year": "20/06/1981",
+            "sentence": 29,
+            "numOfCharge": 17
+        },
+        {
+            "_id": "5e494f5137e071a45d1abe91",
+            "caseId": "caseId-77",
+            "year": "24/04/2013",
+            "sentence": 35,
+            "numOfCharge": 32
+        },
+        {
+            "_id": "5e494f5183dfffdf75094850",
+            "caseId": "caseId-184",
+            "year": "18/07/1975",
+            "sentence": 5,
+            "numOfCharge": 8
+        },
+        {
+            "_id": "5e494f51c70881a5b3fb36b8",
+            "caseId": "caseId-73",
+            "year": "27/07/1986",
+            "sentence": 15,
+            "numOfCharge": 10
+        },
+        {
+            "_id": "5e494f516da6728d77cb1c2f",
+            "caseId": "caseId-158",
+            "year": "18/03/1994",
+            "sentence": 34,
+            "numOfCharge": 15
+        },
+        {
+            "_id": "5e494f51a7fd3f1503abc763",
+            "caseId": "caseId-156",
+            "year": "10/11/2003",
+            "sentence": 2,
+            "numOfCharge": 36
+        },
+        {
+            "_id": "5e494f51ce91dfca1a6c542e",
+            "caseId": "caseId-183",
+            "year": "15/04/1970",
+            "sentence": 11,
+            "numOfCharge": 33
+        },
+        {
+            "_id": "5e494f51cf8aa6b221b2b72c",
+            "caseId": "caseId-163",
+            "year": "29/07/1975",
+            "sentence": 17,
+            "numOfCharge": 30
+        },
+        {
+            "_id": "5e494f5153ad1093e66aea6f",
+            "caseId": "caseId-116",
+            "year": "12/03/1985",
+            "sentence": 27,
+            "numOfCharge": 8
+        },
+        {
+            "_id": "5e494f51d954a77760d35de1",
+            "caseId": "caseId-134",
+            "year": "22/02/2010",
+            "sentence": 27,
+            "numOfCharge": 18
+        },
+        {
+            "_id": "5e494f5142aedf391fe6982f",
+            "caseId": "caseId-105",
+            "year": "29/07/2002",
+            "sentence": 1,
+            "numOfCharge": 31
+        },
+        {
+            "_id": "5e494f51154964ba2ea3b4ec",
+            "caseId": "caseId-154",
+            "year": "06/03/1986",
+            "sentence": 9,
+            "numOfCharge": 7
+        },
+        {
+            "_id": "5e494f51be9b37d05847bd45",
+            "caseId": "caseId-158",
+            "year": "15/10/2005",
+            "sentence": 29,
+            "numOfCharge": 20
+        },
+        {
+            "_id": "5e494f51b8ba9a55ca37e258",
+            "caseId": "caseId-121",
+            "year": "04/02/1980",
+            "sentence": 9,
+            "numOfCharge": 21
+        },
+        {
+            "_id": "5e494f51151b82cf283fc704",
+            "caseId": "caseId-24",
+            "year": "12/10/1980",
+            "sentence": 26,
+            "numOfCharge": 34
+        },
+        {
+            "_id": "5e494f517826777c58eeae13",
+            "caseId": "caseId-50",
+            "year": "27/02/1987",
+            "sentence": 5,
+            "numOfCharge": 13
+        },
+        {
+            "_id": "5e494f51cb88e73247972e03",
+            "caseId": "caseId-14",
+            "year": "26/01/1991",
+            "sentence": 11,
+            "numOfCharge": 36
+        },
+        {
+            "_id": "5e494f515913da75d07121ef",
+            "caseId": "caseId-120",
+            "year": "06/03/1973",
+            "sentence": 38,
+            "numOfCharge": 20
+        },
+        {
+            "_id": "5e494f51ce10c6c363d35962",
+            "caseId": "caseId-48",
+            "year": "15/02/2012",
+            "sentence": 19,
+            "numOfCharge": 10
+        },
+        {
+            "_id": "5e494f515a384846ab9df222",
+            "caseId": "caseId-142",
+            "year": "09/12/2017",
+            "sentence": 9,
+            "numOfCharge": 31
+        },
+        {
+            "_id": "5e494f51afd235ca80e55316",
+            "caseId": "caseId-195",
+            "year": "12/04/1971",
+            "sentence": 1,
+            "numOfCharge": 6
+        },
+        {
+            "_id": "5e494f51b153f9c267c04c11",
+            "caseId": "caseId-105",
+            "year": "01/12/2016",
+            "sentence": 10,
+            "numOfCharge": 21
+        },
+        {
+            "_id": "5e494f5136acc7915c92126e",
+            "caseId": "caseId-89",
+            "year": "23/07/1994",
+            "sentence": 26,
+            "numOfCharge": 23
+        },
+        {
+            "_id": "5e494f5115fff71748d238dd",
+            "caseId": "caseId-91",
+            "year": "03/01/1990",
+            "sentence": 15,
+            "numOfCharge": 25
+        },
+        {
+            "_id": "5e494f513867daeac2081234",
+            "caseId": "caseId-112",
+            "year": "02/03/2011",
+            "sentence": 4,
+            "numOfCharge": 14
+        },
+        {
+            "_id": "5e494f51981a2c4c8f2862f9",
+            "caseId": "caseId-188",
+            "year": "30/01/2000",
+            "sentence": 15,
+            "numOfCharge": 17
+        },
+        {
+            "_id": "5e494f51cbe35bba064516e2",
+            "caseId": "caseId-93",
+            "year": "23/12/1994",
+            "sentence": 37,
+            "numOfCharge": 39
+        },
+        {
+            "_id": "5e494f5140807c701f1a9c96",
+            "caseId": "caseId-184",
+            "year": "02/07/1989",
+            "sentence": 5,
+            "numOfCharge": 11
+        },
+        {
+            "_id": "5e494f515b75e65d5cb896fd",
+            "caseId": "caseId-135",
+            "year": "17/10/1975",
+            "sentence": 15,
+            "numOfCharge": 7
+        },
+        {
+            "_id": "5e494f5139d21f669633cc94",
+            "caseId": "caseId-92",
+            "year": "10/06/1982",
+            "sentence": 2,
+            "numOfCharge": 26
+        },
+        {
+            "_id": "5e494f5144eeaf0b37bc722e",
+            "caseId": "caseId-157",
+            "year": "28/01/1991",
+            "sentence": 32,
+            "numOfCharge": 6
+        },
+        {
+            "_id": "5e494f51a0b570bd0963bae2",
+            "caseId": "caseId-85",
+            "year": "04/11/1982",
+            "sentence": 5,
+            "numOfCharge": 28
+        },
+        {
+            "_id": "5e494f51cced078cc2751d1c",
+            "caseId": "caseId-69",
+            "year": "18/09/2000",
+            "sentence": 40,
+            "numOfCharge": 16
+        },
+        {
+            "_id": "5e494f51b13767b174679537",
+            "caseId": "caseId-152",
+            "year": "25/08/1984",
+            "sentence": 37,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f51cc35d596e0858c54",
+            "caseId": "caseId-98",
+            "year": "28/05/2019",
+            "sentence": 20,
+            "numOfCharge": 24
+        },
+        {
+            "_id": "5e494f51976e20beea1f3ecb",
+            "caseId": "caseId-37",
+            "year": "18/08/1970",
+            "sentence": 12,
+            "numOfCharge": 17
+        },
+        {
+            "_id": "5e494f5112ff17e6b3c22c27",
+            "caseId": "caseId-87",
+            "year": "07/01/2009",
+            "sentence": 34,
+            "numOfCharge": 15
+        },
+        {
+            "_id": "5e494f51368153a84fdc61d6",
+            "caseId": "caseId-32",
+            "year": "15/10/1970",
+            "sentence": 23,
+            "numOfCharge": 27
+        },
+        {
+            "_id": "5e494f518f498460fe83120f",
+            "caseId": "caseId-51",
+            "year": "24/12/1982",
+            "sentence": 22,
+            "numOfCharge": 30
+        },
+        {
+            "_id": "5e494f5165636bda1e6b5000",
+            "caseId": "caseId-187",
+            "year": "19/01/1980",
+            "sentence": 29,
+            "numOfCharge": 31
+        },
+        {
+            "_id": "5e494f51eb4738bb9ba28143",
+            "caseId": "caseId-6",
+            "year": "06/04/2005",
+            "sentence": 6,
+            "numOfCharge": 26
+        },
+        {
+            "_id": "5e494f51e462b27da18d0aea",
+            "caseId": "caseId-50",
+            "year": "11/01/2007",
+            "sentence": 26,
+            "numOfCharge": 7
+        },
+        {
+            "_id": "5e494f519960425b931c58c4",
+            "caseId": "caseId-14",
+            "year": "15/04/1970",
+            "sentence": 22,
+            "numOfCharge": 15
+        },
+        {
+            "_id": "5e494f51f6705d1ea2b2932c",
+            "caseId": "caseId-22",
+            "year": "13/11/2012",
+            "sentence": 36,
+            "numOfCharge": 17
+        },
+        {
+            "_id": "5e494f51d660f29ada76733b",
+            "caseId": "caseId-147",
+            "year": "01/08/1978",
+            "sentence": 16,
+            "numOfCharge": 35
+        },
+        {
+            "_id": "5e494f5197f1f4914c3a0507",
+            "caseId": "caseId-84",
+            "year": "12/05/1976",
+            "sentence": 5,
+            "numOfCharge": 40
+        },
+        {
+            "_id": "5e494f516bd99eba3ba708d5",
+            "caseId": "caseId-41",
+            "year": "28/12/1992",
+            "sentence": 3,
+            "numOfCharge": 30
+        },
+        {
+            "_id": "5e494f51a9caf5d1f5263b78",
+            "caseId": "caseId-48",
+            "year": "18/07/1987",
+            "sentence": 1,
+            "numOfCharge": 3
+        },
+        {
+            "_id": "5e494f51b9fd1a8679d54f80",
+            "caseId": "caseId-128",
+            "year": "25/03/1976",
+            "sentence": 17,
+            "numOfCharge": 8
+        },
+        {
+            "_id": "5e494f51febac9cd00df3250",
+            "caseId": "caseId-198",
+            "year": "01/10/2008",
+            "sentence": 11,
+            "numOfCharge": 11
+        },
+        {
+            "_id": "5e494f51b427ac9c089404cc",
+            "caseId": "caseId-63",
+            "year": "27/02/1975",
+            "sentence": 35,
+            "numOfCharge": 1
+        },
+        {
+            "_id": "5e494f5172228ca8f38f06cc",
+            "caseId": "caseId-39",
+            "year": "13/11/1978",
+            "sentence": 35,
+            "numOfCharge": 4
+        },
+        {
+            "_id": "5e494f51687888bba31d5eca",
+            "caseId": "caseId-134",
+            "year": "23/11/1976",
+            "sentence": 32,
+            "numOfCharge": 22
+        },
+        {
+            "_id": "5e494f510c3d693174efea17",
+            "caseId": "caseId-189",
+            "year": "11/03/1974",
+            "sentence": 29,
+            "numOfCharge": 39
+        },
+        {
+            "_id": "5e494f519be30a88cbdc6488",
+            "caseId": "caseId-64",
+            "year": "02/03/1989",
+            "sentence": 36,
+            "numOfCharge": 24
+        },
+        {
+            "_id": "5e494f513d70b2f9f38e8096",
+            "caseId": "caseId-141",
+            "year": "27/01/1987",
+            "sentence": 34,
+            "numOfCharge": 28
+        },
+        {
+            "_id": "5e494f513ba329c9251335ed",
+            "caseId": "caseId-20",
+            "year": "04/02/2012",
+            "sentence": 8,
+            "numOfCharge": 37
+        },
+        {
+            "_id": "5e494f510e7d4f60a8bda2d3",
+            "caseId": "caseId-88",
+            "year": "16/02/1977",
+            "sentence": 33,
+            "numOfCharge": 30
+        },
+        {
+            "_id": "5e494f512a252b285b4575aa",
+            "caseId": "caseId-51",
+            "year": "28/10/2014",
+            "sentence": 39,
+            "numOfCharge": 26
+        },
+        {
+            "_id": "5e494f5143cff10b174726c1",
+            "caseId": "caseId-19",
+            "year": "01/09/2017",
+            "sentence": 12,
+            "numOfCharge": 3
+        },
+        {
+            "_id": "5e494f51819438ff240bb101",
+            "caseId": "caseId-93",
+            "year": "24/09/2005",
+            "sentence": 26,
+            "numOfCharge": 40
+        },
+        {
+            "_id": "5e494f51364cbd47af1ca634",
+            "caseId": "caseId-147",
+            "year": "06/07/1985",
+            "sentence": 39,
+            "numOfCharge": 5
+        },
+        {
+            "_id": "5e494f5159bd4cfcdfbe24da",
+            "caseId": "caseId-38",
+            "year": "01/01/2019",
+            "sentence": 3,
+            "numOfCharge": 32
+        },
+        {
+            "_id": "5e494f51c1b9b1e475487364",
+            "caseId": "caseId-93",
+            "year": "14/05/1979",
+            "sentence": 25,
+            "numOfCharge": 20
+        },
+        {
+            "_id": "5e494f51e246ec05576c1c5a",
+            "caseId": "caseId-188",
+            "year": "10/06/2006",
+            "sentence": 10,
+            "numOfCharge": 33
+        },
+        {
+            "_id": "5e494f51febd5369d335caf4",
+            "caseId": "caseId-158",
+            "year": "15/03/1993",
+            "sentence": 8,
+            "numOfCharge": 37
+        },
+        {
+            "_id": "5e494f51a29324f367268df9",
+            "caseId": "caseId-191",
+            "year": "30/03/1986",
+            "sentence": 33,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f51d943b7cf38a00f31",
+            "caseId": "caseId-128",
+            "year": "07/04/2008",
+            "sentence": 15,
+            "numOfCharge": 13
+        },
+        {
+            "_id": "5e494f51e8b146dc17a7d3e7",
+            "caseId": "caseId-63",
+            "year": "19/12/2006",
+            "sentence": 28,
+            "numOfCharge": 20
+        },
+        {
+            "_id": "5e494f51b922219348d11437",
+            "caseId": "caseId-115",
+            "year": "04/02/1970",
+            "sentence": 14,
+            "numOfCharge": 14
+        },
+        {
+            "_id": "5e494f51bc5d6fb7145ccbe4",
+            "caseId": "caseId-103",
+            "year": "20/02/1985",
+            "sentence": 29,
+            "numOfCharge": 37
+        },
+        {
+            "_id": "5e494f513a45577e560734f7",
+            "caseId": "caseId-174",
+            "year": "04/06/2018",
+            "sentence": 6,
+            "numOfCharge": 13
+        },
+        {
+            "_id": "5e494f51801e4cbc558247e7",
+            "caseId": "caseId-176",
+            "year": "17/07/2001",
+            "sentence": 24,
+            "numOfCharge": 4
+        },
+        {
+            "_id": "5e494f51cb1eded748ad46ef",
+            "caseId": "caseId-179",
+            "year": "15/12/2017",
+            "sentence": 11,
+            "numOfCharge": 34
+        },
+        {
+            "_id": "5e494f51ef5f6f389be7744b",
+            "caseId": "caseId-139",
+            "year": "25/05/1998",
+            "sentence": 4,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f511535b75e7843d39b",
+            "caseId": "caseId-64",
+            "year": "14/11/2002",
+            "sentence": 3,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f51fe83f9b2a9fa249d",
+            "caseId": "caseId-114",
+            "year": "22/07/1997",
+            "sentence": 3,
+            "numOfCharge": 32
+        },
+        {
+            "_id": "5e494f51e8f9cc981c622f97",
+            "caseId": "caseId-190",
+            "year": "21/08/1972",
+            "sentence": 30,
+            "numOfCharge": 15
+        },
+        {
+            "_id": "5e494f51d12f7c304aead9b8",
+            "caseId": "caseId-47",
+            "year": "26/05/2011",
+            "sentence": 39,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f51f7b9835cca0d1685",
+            "caseId": "caseId-5",
+            "year": "23/04/1995",
+            "sentence": 29,
+            "numOfCharge": 23
+        },
+        {
+            "_id": "5e494f517e39988c31682507",
+            "caseId": "caseId-51",
+            "year": "20/05/1994",
+            "sentence": 29,
+            "numOfCharge": 30
+        },
+        {
+            "_id": "5e494f517785b398baedacbc",
+            "caseId": "caseId-117",
+            "year": "10/12/2017",
+            "sentence": 38,
+            "numOfCharge": 28
+        },
+        {
+            "_id": "5e494f51bce22a37fee68809",
+            "caseId": "caseId-8",
+            "year": "04/07/2001",
+            "sentence": 32,
+            "numOfCharge": 4
+        },
+        {
+            "_id": "5e494f51f8056d58c57f24d6",
+            "caseId": "caseId-183",
+            "year": "03/09/1981",
+            "sentence": 40,
+            "numOfCharge": 38
+        },
+        {
+            "_id": "5e494f5113d3796e00d18053",
+            "caseId": "caseId-159",
+            "year": "01/10/1991",
+            "sentence": 23,
+            "numOfCharge": 26
+        },
+        {
+            "_id": "5e494f510b52c31fbffcda8b",
+            "caseId": "caseId-133",
+            "year": "14/12/2015",
+            "sentence": 35,
+            "numOfCharge": 2
+        },
+        {
+            "_id": "5e494f513a30eb42daf851e5",
+            "caseId": "caseId-16",
+            "year": "22/03/1974",
+            "sentence": 17,
+            "numOfCharge": 5
+        },
+        {
+            "_id": "5e494f51092d67a2d8ee3cd0",
+            "caseId": "caseId-91",
+            "year": "23/02/2003",
+            "sentence": 2,
+            "numOfCharge": 35
+        },
+        {
+            "_id": "5e494f51899d9c464147d8e2",
+            "caseId": "caseId-125",
+            "year": "15/11/2017",
+            "sentence": 24,
+            "numOfCharge": 37
+        },
+        {
+            "_id": "5e494f51844c013add492b04",
+            "caseId": "caseId-68",
+            "year": "07/09/1978",
+            "sentence": 28,
+            "numOfCharge": 4
+        },
+        {
+            "_id": "5e494f51ddc17cac076037e1",
+            "caseId": "caseId-80",
+            "year": "16/09/1984",
+            "sentence": 4,
+            "numOfCharge": 4
+        },
+        {
+            "_id": "5e494f51fa3cf2d5ba1e0e1b",
+            "caseId": "caseId-60",
+            "year": "18/07/1970",
+            "sentence": 16,
+            "numOfCharge": 30
+        },
+        {
+            "_id": "5e494f518866b59a751b2920",
+            "caseId": "caseId-18",
+            "year": "02/06/2005",
+            "sentence": 29,
+            "numOfCharge": 1
+        },
+        {
+            "_id": "5e494f51349e64fca65a6a62",
+            "caseId": "caseId-49",
+            "year": "25/09/1990",
+            "sentence": 2,
+            "numOfCharge": 26
+        },
+        {
+            "_id": "5e494f519792d889cd991ca1",
+            "caseId": "caseId-165",
+            "year": "09/10/1995",
+            "sentence": 32,
+            "numOfCharge": 10
+        },
+        {
+            "_id": "5e494f518fc48272d0d40f4d",
+            "caseId": "caseId-27",
+            "year": "01/05/2000",
+            "sentence": 14,
+            "numOfCharge": 33
+        },
+        {
+            "_id": "5e494f51280a997a5b57e7c0",
+            "caseId": "caseId-80",
+            "year": "25/07/1995",
+            "sentence": 26,
+            "numOfCharge": 40
+        },
+        {
+            "_id": "5e494f511a11c23cdd779042",
+            "caseId": "caseId-95",
+            "year": "20/01/2001",
+            "sentence": 35,
+            "numOfCharge": 13
+        },
+        {
+            "_id": "5e494f513ebeb9508b3ceb9f",
+            "caseId": "caseId-76",
+            "year": "30/01/1989",
+            "sentence": 10,
+            "numOfCharge": 11
+        },
+        {
+            "_id": "5e494f5136b90542c409b9e9",
+            "caseId": "caseId-92",
+            "year": "02/11/1992",
+            "sentence": 34,
+            "numOfCharge": 27
+        },
+        {
+            "_id": "5e494f515748644a053d329f",
+            "caseId": "caseId-196",
+            "year": "28/02/2016",
+            "sentence": 12,
+            "numOfCharge": 25
+        },
+        {
+            "_id": "5e494f5179d0093191b63269",
+            "caseId": "caseId-163",
+            "year": "29/04/2003",
+            "sentence": 37,
+            "numOfCharge": 12
+        },
+        {
+            "_id": "5e494f51b848445acf4e7a90",
+            "caseId": "caseId-181",
+            "year": "22/09/1977",
+            "sentence": 31,
+            "numOfCharge": 2
+        },
+        {
+            "_id": "5e494f51f6c91ce9d8ebfc12",
+            "caseId": "caseId-148",
+            "year": "05/03/2000",
+            "sentence": 19,
+            "numOfCharge": 16
+        },
+        {
+            "_id": "5e494f51c07c6a612aa93d64",
+            "caseId": "caseId-112",
+            "year": "04/12/1992",
+            "sentence": 17,
+            "numOfCharge": 32
+        },
+        {
+            "_id": "5e494f51418b2106dc4de5a4",
+            "caseId": "caseId-89",
+            "year": "09/10/2006",
+            "sentence": 10,
+            "numOfCharge": 6
+        },
+        {
+            "_id": "5e494f51e74b638fbd7b1186",
+            "caseId": "caseId-113",
+            "year": "15/07/2001",
+            "sentence": 11,
+            "numOfCharge": 36
+        },
+        {
+            "_id": "5e494f5127f75960015579d0",
+            "caseId": "caseId-100",
+            "year": "26/03/1971",
+            "sentence": 38,
+            "numOfCharge": 39
+        },
+        {
+            "_id": "5e494f518c0ac934525542b8",
+            "caseId": "caseId-91",
+            "year": "18/07/1984",
+            "sentence": 37,
+            "numOfCharge": 25
+        },
+        {
+            "_id": "5e494f51a61701ccd2ed2414",
+            "caseId": "caseId-49",
+            "year": "25/08/1971",
+            "sentence": 26,
+            "numOfCharge": 23
+        },
+        {
+            "_id": "5e494f51206b06cf6c762035",
+            "caseId": "caseId-40",
+            "year": "25/04/2008",
+            "sentence": 12,
+            "numOfCharge": 14
+        },
+        {
+            "_id": "5e494f51ade352355402101a",
+            "caseId": "caseId-143",
+            "year": "13/02/1997",
+            "sentence": 17,
+            "numOfCharge": 7
+        },
+        {
+            "_id": "5e494f5154be9f12d2e7cbcb",
+            "caseId": "caseId-151",
+            "year": "07/02/1979",
+            "sentence": 15,
+            "numOfCharge": 1
+        },
+        {
+            "_id": "5e494f51432e3b00632a2543",
+            "caseId": "caseId-23",
+            "year": "01/02/2016",
+            "sentence": 26,
+            "numOfCharge": 17
+        },
+        {
+            "_id": "5e494f518e4bb984fefb835a",
+            "caseId": "caseId-186",
+            "year": "08/04/1975",
+            "sentence": 40,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f51bf5be1e561fcc7fb",
+            "caseId": "caseId-24",
+            "year": "15/12/1998",
+            "sentence": 12,
+            "numOfCharge": 35
+        },
+        {
+            "_id": "5e494f516c3c78b2c2554283",
+            "caseId": "caseId-191",
+            "year": "26/08/2000",
+            "sentence": 10,
+            "numOfCharge": 5
+        },
+        {
+            "_id": "5e494f51419422eee9de8e1e",
+            "caseId": "caseId-55",
+            "year": "08/01/1970",
+            "sentence": 19,
+            "numOfCharge": 23
+        },
+        {
+            "_id": "5e494f51afcb147e13d79785",
+            "caseId": "caseId-162",
+            "year": "12/03/1975",
+            "sentence": 9,
+            "numOfCharge": 22
+        },
+        {
+            "_id": "5e494f51358a1232fca8db18",
+            "caseId": "caseId-99",
+            "year": "07/11/1989",
+            "sentence": 32,
+            "numOfCharge": 39
+        },
+        {
+            "_id": "5e494f51ff4eafc6d9d216b9",
+            "caseId": "caseId-56",
+            "year": "06/03/2009",
+            "sentence": 20,
+            "numOfCharge": 23
+        },
+        {
+            "_id": "5e494f513112d31dc3791019",
+            "caseId": "caseId-23",
+            "year": "02/10/1975",
+            "sentence": 15,
+            "numOfCharge": 12
+        },
+        {
+            "_id": "5e494f516bf4c4fa7e3f47e2",
+            "caseId": "caseId-0",
+            "year": "31/03/1979",
+            "sentence": 11,
+            "numOfCharge": 14
+        },
+        {
+            "_id": "5e494f512d42dff42c1389a7",
+            "caseId": "caseId-25",
+            "year": "24/10/1998",
+            "sentence": 18,
+            "numOfCharge": 26
+        },
+        {
+            "_id": "5e494f511a98e93eaa5eada4",
+            "caseId": "caseId-81",
+            "year": "29/06/2008",
+            "sentence": 16,
+            "numOfCharge": 36
+        },
+        {
+            "_id": "5e494f51a67b3f2c14b56e03",
+            "caseId": "caseId-42",
+            "year": "07/09/1974",
+            "sentence": 26,
+            "numOfCharge": 8
+        },
+        {
+            "_id": "5e494f51d22af7516bfc399a",
+            "caseId": "caseId-139",
+            "year": "31/08/1993",
+            "sentence": 24,
+            "numOfCharge": 29
+        },
+        {
+            "_id": "5e494f517c5900f7795a0ba0",
+            "caseId": "caseId-74",
+            "year": "02/07/2013",
+            "sentence": 14,
+            "numOfCharge": 39
+        },
+        {
+            "_id": "5e494f51a157cd9fc684f197",
+            "caseId": "caseId-180",
+            "year": "04/06/1991",
+            "sentence": 38,
+            "numOfCharge": 8
+        },
+        {
+            "_id": "5e494f519bf7434c11cc7d7d",
+            "caseId": "caseId-60",
+            "year": "21/09/1997",
+            "sentence": 38,
+            "numOfCharge": 24
+        },
+        {
+            "_id": "5e494f517f9f47628f57b1f7",
+            "caseId": "caseId-82",
+            "year": "28/07/2018",
+            "sentence": 31,
+            "numOfCharge": 1
+        },
+        {
+            "_id": "5e494f5137c9bfd6c5eec2ef",
+            "caseId": "caseId-19",
+            "year": "28/05/1985",
+            "sentence": 18,
+            "numOfCharge": 4
+        },
+        {
+            "_id": "5e494f515839e18cda580798",
+            "caseId": "caseId-131",
+            "year": "05/09/1982",
+            "sentence": 29,
+            "numOfCharge": 21
+        },
+        {
+            "_id": "5e494f51e24edda0bf5cbbcf",
+            "caseId": "caseId-185",
+            "year": "25/01/2011",
+            "sentence": 21,
+            "numOfCharge": 38
+        },
+        {
+            "_id": "5e494f5161332af74a380e67",
+            "caseId": "caseId-200",
+            "year": "07/02/1985",
+            "sentence": 34,
+            "numOfCharge": 29
+        },
+        {
+            "_id": "5e494f51751a237fef5b643a",
+            "caseId": "caseId-66",
+            "year": "20/01/1980",
+            "sentence": 5,
+            "numOfCharge": 6
+        },
+        {
+            "_id": "5e494f515ae14788cea52586",
+            "caseId": "caseId-33",
+            "year": "28/06/2017",
+            "sentence": 33,
+            "numOfCharge": 14
+        },
+        {
+            "_id": "5e494f516402de643388f439",
+            "caseId": "caseId-141",
+            "year": "15/03/1974",
+            "sentence": 1,
+            "numOfCharge": 26
+        },
+        {
+            "_id": "5e494f51e67e1cb9b865f620",
+            "caseId": "caseId-6",
+            "year": "18/03/1977",
+            "sentence": 17,
+            "numOfCharge": 16
+        },
+        {
+            "_id": "5e494f5154c5e78953a8dfc5",
+            "caseId": "caseId-192",
+            "year": "20/03/1980",
+            "sentence": 35,
+            "numOfCharge": 35
+        },
+        {
+            "_id": "5e494f51babfb117c7972597",
+            "caseId": "caseId-81",
+            "year": "19/05/1997",
+            "sentence": 25,
+            "numOfCharge": 30
+        },
+        {
+            "_id": "5e494f51db330e51b2547501",
+            "caseId": "caseId-43",
+            "year": "04/12/2004",
+            "sentence": 16,
+            "numOfCharge": 20
+        },
+        {
+            "_id": "5e494f51e6afae174045d1cd",
+            "caseId": "caseId-1",
+            "year": "05/06/1977",
+            "sentence": 25,
+            "numOfCharge": 28
+        },
+        {
+            "_id": "5e494f514cc05503c2bccaa3",
+            "caseId": "caseId-25",
+            "year": "10/11/1993",
+            "sentence": 5,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f51a223d68e05dec589",
+            "caseId": "caseId-82",
+            "year": "08/04/2009",
+            "sentence": 20,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f51790f3d1be0d33d58",
+            "caseId": "caseId-7",
+            "year": "10/10/2007",
+            "sentence": 1,
+            "numOfCharge": 35
+        },
+        {
+            "_id": "5e494f5127c7919219c003b4",
+            "caseId": "caseId-165",
+            "year": "01/03/2009",
+            "sentence": 33,
+            "numOfCharge": 38
+        },
+        {
+            "_id": "5e494f5121f486561a08a72a",
+            "caseId": "caseId-191",
+            "year": "30/04/2012",
+            "sentence": 13,
+            "numOfCharge": 15
+        },
+        {
+            "_id": "5e494f510fb636a039cb3ca4",
+            "caseId": "caseId-197",
+            "year": "27/07/1973",
+            "sentence": 23,
+            "numOfCharge": 13
+        },
+        {
+            "_id": "5e494f519c13db2a517cface",
+            "caseId": "caseId-9",
+            "year": "09/01/2009",
+            "sentence": 22,
+            "numOfCharge": 13
+        },
+        {
+            "_id": "5e494f515c65f3d449b2483a",
+            "caseId": "caseId-27",
+            "year": "05/12/1976",
+            "sentence": 10,
+            "numOfCharge": 9
+        },
+        {
+            "_id": "5e494f5181d2b8671dbcb766",
+            "caseId": "caseId-107",
+            "year": "06/11/1997",
+            "sentence": 3,
+            "numOfCharge": 7
+        },
+        {
+            "_id": "5e494f518d5301b2093c78a2",
+            "caseId": "caseId-61",
+            "year": "06/11/2016",
+            "sentence": 3,
+            "numOfCharge": 14
+        },
+        {
+            "_id": "5e494f518515f2934fc5e1d0",
+            "caseId": "caseId-65",
+            "year": "10/02/1983",
+            "sentence": 32,
+            "numOfCharge": 7
+        },
+        {
+            "_id": "5e494f51ff4da7e4960e59d4",
+            "caseId": "caseId-96",
+            "year": "19/09/2007",
+            "sentence": 13,
+            "numOfCharge": 9
+        },
+        {
+            "_id": "5e494f51e78c0eb53e6883c1",
+            "caseId": "caseId-26",
+            "year": "16/08/2016",
+            "sentence": 8,
+            "numOfCharge": 4
+        },
+        {
+            "_id": "5e494f511e7cb365d930e1c5",
+            "caseId": "caseId-169",
+            "year": "19/12/1980",
+            "sentence": 34,
+            "numOfCharge": 13
+        },
+        {
+            "_id": "5e494f51a6d77a6bbe931064",
+            "caseId": "caseId-143",
+            "year": "22/02/2007",
+            "sentence": 9,
+            "numOfCharge": 26
+        },
+        {
+            "_id": "5e494f51f90f356ee38db180",
+            "caseId": "caseId-154",
+            "year": "22/10/1991",
+            "sentence": 36,
+            "numOfCharge": 22
+        },
+        {
+            "_id": "5e494f5198868c5139d7af70",
+            "caseId": "caseId-134",
+            "year": "09/04/1990",
+            "sentence": 17,
+            "numOfCharge": 6
+        },
+        {
+            "_id": "5e494f517a57a78e82122a64",
+            "caseId": "caseId-18",
+            "year": "28/09/1979",
+            "sentence": 5,
+            "numOfCharge": 36
+        },
+        {
+            "_id": "5e494f510fecb977768a91a6",
+            "caseId": "caseId-122",
+            "year": "15/04/2017",
+            "sentence": 38,
+            "numOfCharge": 12
+        },
+        {
+            "_id": "5e494f5133f764f16f5ec841",
+            "caseId": "caseId-137",
+            "year": "17/07/1973",
+            "sentence": 29,
+            "numOfCharge": 23
+        },
+        {
+            "_id": "5e494f517efcdd7df7e3f6ef",
+            "caseId": "caseId-59",
+            "year": "18/01/1970",
+            "sentence": 30,
+            "numOfCharge": 40
+        },
+        {
+            "_id": "5e494f51fde02d6287573930",
+            "caseId": "caseId-112",
+            "year": "28/08/2004",
+            "sentence": 32,
+            "numOfCharge": 6
+        },
+        {
+            "_id": "5e494f51c17703df07286beb",
+            "caseId": "caseId-130",
+            "year": "12/11/2007",
+            "sentence": 29,
+            "numOfCharge": 11
+        },
+        {
+            "_id": "5e494f511cef796a708351ae",
+            "caseId": "caseId-45",
+            "year": "10/03/1993",
+            "sentence": 22,
+            "numOfCharge": 15
+        },
+        {
+            "_id": "5e494f513299aa9e8000d3f5",
+            "caseId": "caseId-78",
+            "year": "28/03/2017",
+            "sentence": 20,
+            "numOfCharge": 37
+        },
+        {
+            "_id": "5e494f51fc32a3ff0c01a006",
+            "caseId": "caseId-151",
+            "year": "08/06/2015",
+            "sentence": 29,
+            "numOfCharge": 31
+        },
+        {
+            "_id": "5e494f512ed7d142ef403250",
+            "caseId": "caseId-114",
+            "year": "10/02/1974",
+            "sentence": 19,
+            "numOfCharge": 16
+        },
+        {
+            "_id": "5e494f51cb56626cbbc59daf",
+            "caseId": "caseId-146",
+            "year": "29/08/2017",
+            "sentence": 25,
+            "numOfCharge": 9
+        },
+        {
+            "_id": "5e494f510a7d06f3805be1ed",
+            "caseId": "caseId-185",
+            "year": "16/04/1999",
+            "sentence": 18,
+            "numOfCharge": 18
+        },
+        {
+            "_id": "5e494f51dcf9ca2a642e36f9",
+            "caseId": "caseId-115",
+            "year": "25/06/2016",
+            "sentence": 31,
+            "numOfCharge": 23
+        },
+        {
+            "_id": "5e494f51f788a3e257738cb1",
+            "caseId": "caseId-77",
+            "year": "20/07/2002",
+            "sentence": 7,
+            "numOfCharge": 31
+        },
+        {
+            "_id": "5e494f51a7c59a5977ed0468",
+            "caseId": "caseId-63",
+            "year": "21/08/1979",
+            "sentence": 7,
+            "numOfCharge": 31
+        },
+        {
+            "_id": "5e494f51f7753a5567d9758f",
+            "caseId": "caseId-29",
+            "year": "21/09/2001",
+            "sentence": 30,
+            "numOfCharge": 30
+        },
+        {
+            "_id": "5e494f51c41af79bfdc90c37",
+            "caseId": "caseId-174",
+            "year": "10/12/2009",
+            "sentence": 1,
+            "numOfCharge": 23
+        },
+        {
+            "_id": "5e494f5152fce1a3b30f2395",
+            "caseId": "caseId-200",
+            "year": "13/07/1970",
+            "sentence": 25,
+            "numOfCharge": 16
+        },
+        {
+            "_id": "5e494f51e146d1a11e6b3bbe",
+            "caseId": "caseId-171",
+            "year": "18/06/1977",
+            "sentence": 24,
+            "numOfCharge": 2
+        },
+        {
+            "_id": "5e494f5158807a2db2c4d56f",
+            "caseId": "caseId-76",
+            "year": "10/09/2002",
+            "sentence": 20,
+            "numOfCharge": 39
+        },
+        {
+            "_id": "5e494f51d097c01f667ddbaf",
+            "caseId": "caseId-123",
+            "year": "08/06/2017",
+            "sentence": 21,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f51d81619ec499c1073",
+            "caseId": "caseId-1",
+            "year": "25/02/1981",
+            "sentence": 28,
+            "numOfCharge": 11
+        },
+        {
+            "_id": "5e494f51587ed73d067f0fd3",
+            "caseId": "caseId-138",
+            "year": "07/05/1993",
+            "sentence": 33,
+            "numOfCharge": 29
+        },
+        {
+            "_id": "5e494f518a98eec38b1b350a",
+            "caseId": "caseId-66",
+            "year": "01/10/1981",
+            "sentence": 38,
+            "numOfCharge": 36
+        },
+        {
+            "_id": "5e494f51c4c0a8c9af9cfafa",
+            "caseId": "caseId-80",
+            "year": "19/12/2004",
+            "sentence": 17,
+            "numOfCharge": 7
+        },
+        {
+            "_id": "5e494f5132405fc6baa7d36e",
+            "caseId": "caseId-183",
+            "year": "31/05/1993",
+            "sentence": 22,
+            "numOfCharge": 20
+        },
+        {
+            "_id": "5e494f513f807fbb9d1b4421",
+            "caseId": "caseId-132",
+            "year": "21/07/1971",
+            "sentence": 8,
+            "numOfCharge": 22
+        },
+        {
+            "_id": "5e494f51b922d5ce420738c7",
+            "caseId": "caseId-14",
+            "year": "26/09/1981",
+            "sentence": 5,
+            "numOfCharge": 4
+        },
+        {
+            "_id": "5e494f5151567edd45ab5ebf",
+            "caseId": "caseId-29",
+            "year": "02/07/1983",
+            "sentence": 22,
+            "numOfCharge": 6
+        },
+        {
+            "_id": "5e494f51d039dd8768b83ba9",
+            "caseId": "caseId-105",
+            "year": "19/11/1999",
+            "sentence": 6,
+            "numOfCharge": 30
+        },
+        {
+            "_id": "5e494f518923b3ef4d7dd90a",
+            "caseId": "caseId-180",
+            "year": "27/10/1984",
+            "sentence": 22,
+            "numOfCharge": 22
+        },
+        {
+            "_id": "5e494f51558ff14fb5bf4a34",
+            "caseId": "caseId-142",
+            "year": "04/01/1992",
+            "sentence": 5,
+            "numOfCharge": 25
+        },
+        {
+            "_id": "5e494f51e6698d70bf71e2a2",
+            "caseId": "caseId-84",
+            "year": "07/08/2002",
+            "sentence": 24,
+            "numOfCharge": 18
+        },
+        {
+            "_id": "5e494f51db2c79be6f75b67f",
+            "caseId": "caseId-89",
+            "year": "06/04/2007",
+            "sentence": 19,
+            "numOfCharge": 7
+        },
+        {
+            "_id": "5e494f512b81ca7788e0526e",
+            "caseId": "caseId-48",
+            "year": "14/10/1992",
+            "sentence": 31,
+            "numOfCharge": 37
+        },
+        {
+            "_id": "5e494f51786f65e149ef06ce",
+            "caseId": "caseId-6",
+            "year": "06/05/1970",
+            "sentence": 21,
+            "numOfCharge": 16
+        },
+        {
+            "_id": "5e494f51bc5cc692c9783eff",
+            "caseId": "caseId-60",
+            "year": "29/07/1990",
+            "sentence": 10,
+            "numOfCharge": 9
+        },
+        {
+            "_id": "5e494f51153f4531bfea3d28",
+            "caseId": "caseId-35",
+            "year": "23/10/2017",
+            "sentence": 34,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f5195485771e33ba294",
+            "caseId": "caseId-41",
+            "year": "10/04/1971",
+            "sentence": 5,
+            "numOfCharge": 29
+        },
+        {
+            "_id": "5e494f51aa8db61c3c4bb845",
+            "caseId": "caseId-122",
+            "year": "06/05/1994",
+            "sentence": 17,
+            "numOfCharge": 5
+        },
+        {
+            "_id": "5e494f51a952e8d5089da291",
+            "caseId": "caseId-89",
+            "year": "19/08/1981",
+            "sentence": 31,
+            "numOfCharge": 11
+        },
+        {
+            "_id": "5e494f514ffa0afe631344a8",
+            "caseId": "caseId-1",
+            "year": "26/07/1986",
+            "sentence": 19,
+            "numOfCharge": 27
+        },
+        {
+            "_id": "5e494f51e3c7767885a57119",
+            "caseId": "caseId-2",
+            "year": "08/06/2017",
+            "sentence": 39,
+            "numOfCharge": 5
+        },
+        {
+            "_id": "5e494f510bcb4a6b403652d7",
+            "caseId": "caseId-100",
+            "year": "15/07/1985",
+            "sentence": 3,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f5102596e5202cffc2b",
+            "caseId": "caseId-66",
+            "year": "31/03/2000",
+            "sentence": 20,
+            "numOfCharge": 4
+        },
+        {
+            "_id": "5e494f510b8d889f9d264962",
+            "caseId": "caseId-165",
+            "year": "30/09/2018",
+            "sentence": 17,
+            "numOfCharge": 13
+        },
+        {
+            "_id": "5e494f51d42e8a75198b0d07",
+            "caseId": "caseId-150",
+            "year": "24/01/2008",
+            "sentence": 15,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f517f3a3ed374138da6",
+            "caseId": "caseId-34",
+            "year": "05/05/1997",
+            "sentence": 9,
+            "numOfCharge": 29
+        },
+        {
+            "_id": "5e494f51458885427ac942dc",
+            "caseId": "caseId-186",
+            "year": "26/11/1998",
+            "sentence": 25,
+            "numOfCharge": 3
+        },
+        {
+            "_id": "5e494f517c654ac473faf997",
+            "caseId": "caseId-51",
+            "year": "22/09/2000",
+            "sentence": 27,
+            "numOfCharge": 28
+        },
+        {
+            "_id": "5e494f51072fe7212466d1e6",
+            "caseId": "caseId-1",
+            "year": "21/04/1996",
+            "sentence": 32,
+            "numOfCharge": 23
+        },
+        {
+            "_id": "5e494f5182163d0209bc0f36",
+            "caseId": "caseId-113",
+            "year": "09/07/1973",
+            "sentence": 27,
+            "numOfCharge": 21
+        },
+        {
+            "_id": "5e494f517ddd89fb77eda292",
+            "caseId": "caseId-133",
+            "year": "24/07/2004",
+            "sentence": 1,
+            "numOfCharge": 40
+        },
+        {
+            "_id": "5e494f5115993330aa3aa6fb",
+            "caseId": "caseId-120",
+            "year": "14/11/1978",
+            "sentence": 22,
+            "numOfCharge": 5
+        },
+        {
+            "_id": "5e494f51958982f28c6821ee",
+            "caseId": "caseId-172",
+            "year": "24/01/1996",
+            "sentence": 10,
+            "numOfCharge": 31
+        },
+        {
+            "_id": "5e494f5173dd807b0388c48a",
+            "caseId": "caseId-168",
+            "year": "06/04/2016",
+            "sentence": 26,
+            "numOfCharge": 6
+        },
+        {
+            "_id": "5e494f515664b77dac3f2f39",
+            "caseId": "caseId-64",
+            "year": "31/05/1977",
+            "sentence": 9,
+            "numOfCharge": 9
+        },
+        {
+            "_id": "5e494f510e70495adfb9994c",
+            "caseId": "caseId-164",
+            "year": "17/06/2006",
+            "sentence": 28,
+            "numOfCharge": 24
+        },
+        {
+            "_id": "5e494f51ab181027e4a4750c",
+            "caseId": "caseId-179",
+            "year": "18/09/1999",
+            "sentence": 33,
+            "numOfCharge": 40
+        },
+        {
+            "_id": "5e494f514715b2c4e9804c64",
+            "caseId": "caseId-130",
+            "year": "28/03/2012",
+            "sentence": 39,
+            "numOfCharge": 1
+        },
+        {
+            "_id": "5e494f5152698046ec070cbe",
+            "caseId": "caseId-155",
+            "year": "23/04/2014",
+            "sentence": 2,
+            "numOfCharge": 3
+        },
+        {
+            "_id": "5e494f51402de3594fc6693d",
+            "caseId": "caseId-68",
+            "year": "16/02/1975",
+            "sentence": 18,
+            "numOfCharge": 20
+        },
+        {
+            "_id": "5e494f517a93f4fb4d9bc830",
+            "caseId": "caseId-128",
+            "year": "09/03/2006",
+            "sentence": 24,
+            "numOfCharge": 18
+        },
+        {
+            "_id": "5e494f5153f18eb32f30753a",
+            "caseId": "caseId-170",
+            "year": "03/11/1972",
+            "sentence": 33,
+            "numOfCharge": 25
+        },
+        {
+            "_id": "5e494f515ceb9a1cd66bb76d",
+            "caseId": "caseId-128",
+            "year": "11/11/1983",
+            "sentence": 3,
+            "numOfCharge": 40
+        },
+        {
+            "_id": "5e494f51953373488f815c72",
+            "caseId": "caseId-14",
+            "year": "07/02/1974",
+            "sentence": 4,
+            "numOfCharge": 14
+        },
+        {
+            "_id": "5e494f519a4252388cc2d2bd",
+            "caseId": "caseId-127",
+            "year": "15/01/2013",
+            "sentence": 17,
+            "numOfCharge": 4
+        },
+        {
+            "_id": "5e494f5137e396d945c24014",
+            "caseId": "caseId-16",
+            "year": "20/03/1994",
+            "sentence": 38,
+            "numOfCharge": 31
+        },
+        {
+            "_id": "5e494f514c0acb4c4b0c7f2c",
+            "caseId": "caseId-94",
+            "year": "05/05/1977",
+            "sentence": 27,
+            "numOfCharge": 12
+        },
+        {
+            "_id": "5e494f51783606c4f96ff13a",
+            "caseId": "caseId-64",
+            "year": "11/10/2018",
+            "sentence": 29,
+            "numOfCharge": 11
+        },
+        {
+            "_id": "5e494f51f630129f7363201b",
+            "caseId": "caseId-153",
+            "year": "14/04/1980",
+            "sentence": 39,
+            "numOfCharge": 36
+        },
+        {
+            "_id": "5e494f51374e0ca73e2fb7ae",
+            "caseId": "caseId-53",
+            "year": "30/03/1976",
+            "sentence": 31,
+            "numOfCharge": 36
+        },
+        {
+            "_id": "5e494f5175f82b9589c39800",
+            "caseId": "caseId-164",
+            "year": "27/01/1996",
+            "sentence": 2,
+            "numOfCharge": 29
+        },
+        {
+            "_id": "5e494f51e501cf7cee8309f4",
+            "caseId": "caseId-56",
+            "year": "17/03/2008",
+            "sentence": 3,
+            "numOfCharge": 35
+        },
+        {
+            "_id": "5e494f5141fa875c836633a7",
+            "caseId": "caseId-64",
+            "year": "06/04/2007",
+            "sentence": 19,
+            "numOfCharge": 7
+        },
+        {
+            "_id": "5e494f510a6dc312a2871fb5",
+            "caseId": "caseId-196",
+            "year": "29/04/2005",
+            "sentence": 11,
+            "numOfCharge": 31
+        },
+        {
+            "_id": "5e494f514e2d58a476f6649a",
+            "caseId": "caseId-118",
+            "year": "10/03/1987",
+            "sentence": 16,
+            "numOfCharge": 3
+        },
+        {
+            "_id": "5e494f51610f76c176b85be5",
+            "caseId": "caseId-88",
+            "year": "12/04/1992",
+            "sentence": 32,
+            "numOfCharge": 30
+        },
+        {
+            "_id": "5e494f51756d829d51c92f11",
+            "caseId": "caseId-146",
+            "year": "18/11/2013",
+            "sentence": 9,
+            "numOfCharge": 25
+        },
+        {
+            "_id": "5e494f51b4a5f58c0f8d07c2",
+            "caseId": "caseId-116",
+            "year": "11/01/2004",
+            "sentence": 4,
+            "numOfCharge": 14
+        },
+        {
+            "_id": "5e494f51f0585f5c7e799ce3",
+            "caseId": "caseId-64",
+            "year": "01/04/2019",
+            "sentence": 11,
+            "numOfCharge": 8
+        },
+        {
+            "_id": "5e494f5142ccf1cf4e3ead99",
+            "caseId": "caseId-199",
+            "year": "09/02/1991",
+            "sentence": 18,
+            "numOfCharge": 29
+        },
+        {
+            "_id": "5e494f51c54327fd18ba98d4",
+            "caseId": "caseId-152",
+            "year": "17/03/1995",
+            "sentence": 3,
+            "numOfCharge": 20
+        },
+        {
+            "_id": "5e494f514e490b99a966bc32",
+            "caseId": "caseId-98",
+            "year": "26/11/1974",
+            "sentence": 22,
+            "numOfCharge": 8
+        },
+        {
+            "_id": "5e494f51f207dbb1cb97b7b6",
+            "caseId": "caseId-151",
+            "year": "20/10/1991",
+            "sentence": 17,
+            "numOfCharge": 34
+        },
+        {
+            "_id": "5e494f5135042aacf7dd1d5b",
+            "caseId": "caseId-62",
+            "year": "09/04/1994",
+            "sentence": 4,
+            "numOfCharge": 16
+        },
+        {
+            "_id": "5e494f514c3cfb233a76cd07",
+            "caseId": "caseId-71",
+            "year": "14/06/2017",
+            "sentence": 2,
+            "numOfCharge": 11
+        },
+        {
+            "_id": "5e494f5141160ef90e8ffa0b",
+            "caseId": "caseId-129",
+            "year": "29/05/1997",
+            "sentence": 18,
+            "numOfCharge": 4
+        },
+        {
+            "_id": "5e494f51f4902b7328721860",
+            "caseId": "caseId-21",
+            "year": "15/03/1973",
+            "sentence": 2,
+            "numOfCharge": 13
+        },
+        {
+            "_id": "5e494f513fc8bd3f88ba0aff",
+            "caseId": "caseId-174",
+            "year": "02/08/2011",
+            "sentence": 17,
+            "numOfCharge": 31
+        },
+        {
+            "_id": "5e494f51aa1a8f035d5d1b49",
+            "caseId": "caseId-170",
+            "year": "28/07/2015",
+            "sentence": 28,
+            "numOfCharge": 9
+        },
+        {
+            "_id": "5e494f51fbb728ada50309a8",
+            "caseId": "caseId-157",
+            "year": "22/05/2018",
+            "sentence": 36,
+            "numOfCharge": 14
+        },
+        {
+            "_id": "5e494f51620151b1148f714a",
+            "caseId": "caseId-191",
+            "year": "18/01/2005",
+            "sentence": 29,
+            "numOfCharge": 18
+        },
+        {
+            "_id": "5e494f512003d91d2c4b4938",
+            "caseId": "caseId-162",
+            "year": "08/03/1983",
+            "sentence": 17,
+            "numOfCharge": 26
+        },
+        {
+            "_id": "5e494f5102254e59b4d87846",
+            "caseId": "caseId-11",
+            "year": "22/06/1972",
+            "sentence": 1,
+            "numOfCharge": 4
+        },
+        {
+            "_id": "5e494f516d094a8d0b6aa304",
+            "caseId": "caseId-52",
+            "year": "05/11/1971",
+            "sentence": 39,
+            "numOfCharge": 27
+        },
+        {
+            "_id": "5e494f514d5c8376884a9728",
+            "caseId": "caseId-8",
+            "year": "03/05/1995",
+            "sentence": 39,
+            "numOfCharge": 31
+        },
+        {
+            "_id": "5e494f51e082fe8361df7405",
+            "caseId": "caseId-126",
+            "year": "02/11/1975",
+            "sentence": 31,
+            "numOfCharge": 38
+        },
+        {
+            "_id": "5e494f51c251c06be2938adf",
+            "caseId": "caseId-114",
+            "year": "16/05/2015",
+            "sentence": 35,
+            "numOfCharge": 33
+        },
+        {
+            "_id": "5e494f51b1ecc0c2a0999ec3",
+            "caseId": "caseId-130",
+            "year": "03/03/2007",
+            "sentence": 24,
+            "numOfCharge": 13
+        },
+        {
+            "_id": "5e494f5182a7cdb038ffa9e9",
+            "caseId": "caseId-65",
+            "year": "13/01/1984",
+            "sentence": 1,
+            "numOfCharge": 11
+        },
+        {
+            "_id": "5e494f51ee88a810371c8315",
+            "caseId": "caseId-119",
+            "year": "11/01/1983",
+            "sentence": 36,
+            "numOfCharge": 24
+        },
+        {
+            "_id": "5e494f51b7b40970239c4bbf",
+            "caseId": "caseId-118",
+            "year": "28/08/1998",
+            "sentence": 25,
+            "numOfCharge": 24
+        },
+        {
+            "_id": "5e494f5138dc3d967b246c62",
+            "caseId": "caseId-15",
+            "year": "06/05/1990",
+            "sentence": 19,
+            "numOfCharge": 9
+        },
+        {
+            "_id": "5e494f51ccf13bd6efe0c785",
+            "caseId": "caseId-54",
+            "year": "13/11/1992",
+            "sentence": 29,
+            "numOfCharge": 16
+        },
+        {
+            "_id": "5e494f51fc7228c7a2a41841",
+            "caseId": "caseId-35",
+            "year": "15/07/1972",
+            "sentence": 22,
+            "numOfCharge": 25
+        },
+        {
+            "_id": "5e494f51929fa47144c86207",
+            "caseId": "caseId-67",
+            "year": "11/02/2009",
+            "sentence": 26,
+            "numOfCharge": 26
+        },
+        {
+            "_id": "5e494f51186801eb98fbaa02",
+            "caseId": "caseId-14",
+            "year": "12/02/1998",
+            "sentence": 22,
+            "numOfCharge": 37
+        },
+        {
+            "_id": "5e494f51557e2eb5638e84a1",
+            "caseId": "caseId-4",
+            "year": "04/11/1972",
+            "sentence": 9,
+            "numOfCharge": 5
+        },
+        {
+            "_id": "5e494f51e44a22000e3e5109",
+            "caseId": "caseId-76",
+            "year": "02/07/1994",
+            "sentence": 32,
+            "numOfCharge": 8
+        },
+        {
+            "_id": "5e494f5192df70206ef7ba54",
+            "caseId": "caseId-138",
+            "year": "21/06/2017",
+            "sentence": 5,
+            "numOfCharge": 14
+        },
+        {
+            "_id": "5e494f510323fbd8d352f072",
+            "caseId": "caseId-7",
+            "year": "23/07/1987",
+            "sentence": 25,
+            "numOfCharge": 37
+        },
+        {
+            "_id": "5e494f51082d803439e746bb",
+            "caseId": "caseId-41",
+            "year": "14/12/2006",
+            "sentence": 3,
+            "numOfCharge": 3
+        },
+        {
+            "_id": "5e494f51cc0a8e741aa45ac2",
+            "caseId": "caseId-108",
+            "year": "22/08/2003",
+            "sentence": 36,
+            "numOfCharge": 2
+        },
+        {
+            "_id": "5e494f51ea56d326b5a4f0b7",
+            "caseId": "caseId-35",
+            "year": "17/11/2014",
+            "sentence": 34,
+            "numOfCharge": 15
+        },
+        {
+            "_id": "5e494f51826b79707c11fa15",
+            "caseId": "caseId-4",
+            "year": "24/01/2010",
+            "sentence": 2,
+            "numOfCharge": 6
+        },
+        {
+            "_id": "5e494f51d7d94c2f42b75d58",
+            "caseId": "caseId-40",
+            "year": "18/12/2003",
+            "sentence": 32,
+            "numOfCharge": 26
+        },
+        {
+            "_id": "5e494f519329fa034ef3d460",
+            "caseId": "caseId-164",
+            "year": "31/08/2001",
+            "sentence": 26,
+            "numOfCharge": 13
+        },
+        {
+            "_id": "5e494f51bf665599a3fa4a12",
+            "caseId": "caseId-162",
+            "year": "08/12/2016",
+            "sentence": 2,
+            "numOfCharge": 13
+        },
+        {
+            "_id": "5e494f51199bedbac7e721b4",
+            "caseId": "caseId-62",
+            "year": "20/06/1971",
+            "sentence": 19,
+            "numOfCharge": 5
+        },
+        {
+            "_id": "5e494f513b10c7f8d5c75db7",
+            "caseId": "caseId-6",
+            "year": "18/05/1983",
+            "sentence": 35,
+            "numOfCharge": 22
+        },
+        {
+            "_id": "5e494f51e3dc5fa7ae6511fd",
+            "caseId": "caseId-6",
+            "year": "12/03/1992",
+            "sentence": 13,
+            "numOfCharge": 17
+        },
+        {
+            "_id": "5e494f510128be413120294f",
+            "caseId": "caseId-116",
+            "year": "06/11/1989",
+            "sentence": 40,
+            "numOfCharge": 37
+        },
+        {
+            "_id": "5e494f5118f82bd459ac9a32",
+            "caseId": "caseId-124",
+            "year": "19/05/1978",
+            "sentence": 6,
+            "numOfCharge": 15
+        },
+        {
+            "_id": "5e494f514d64ea90f3b5327c",
+            "caseId": "caseId-73",
+            "year": "16/10/1997",
+            "sentence": 33,
+            "numOfCharge": 24
+        },
+        {
+            "_id": "5e494f518e15429c0b3e2fb5",
+            "caseId": "caseId-125",
+            "year": "14/06/1989",
+            "sentence": 20,
+            "numOfCharge": 36
+        },
+        {
+            "_id": "5e494f51160a2922769b056c",
+            "caseId": "caseId-97",
+            "year": "03/11/2005",
+            "sentence": 17,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f51b2c9df2a6b5d7e67",
+            "caseId": "caseId-17",
+            "year": "19/10/1990",
+            "sentence": 36,
+            "numOfCharge": 39
+        },
+        {
+            "_id": "5e494f51a8c985d1aadfff71",
+            "caseId": "caseId-4",
+            "year": "04/07/2016",
+            "sentence": 10,
+            "numOfCharge": 31
+        },
+        {
+            "_id": "5e494f512563cfaf8ab89750",
+            "caseId": "caseId-25",
+            "year": "15/04/2016",
+            "sentence": 26,
+            "numOfCharge": 31
+        },
+        {
+            "_id": "5e494f5159f6ce8d47580c0c",
+            "caseId": "caseId-121",
+            "year": "13/03/1970",
+            "sentence": 31,
+            "numOfCharge": 5
+        },
+        {
+            "_id": "5e494f51d50edeae98a4d494",
+            "caseId": "caseId-71",
+            "year": "12/08/2010",
+            "sentence": 14,
+            "numOfCharge": 3
+        },
+        {
+            "_id": "5e494f51c55c2e682987f88b",
+            "caseId": "caseId-123",
+            "year": "26/08/1985",
+            "sentence": 36,
+            "numOfCharge": 1
+        },
+        {
+            "_id": "5e494f51fafb2176c9ff6e66",
+            "caseId": "caseId-17",
+            "year": "29/06/1971",
+            "sentence": 38,
+            "numOfCharge": 9
+        },
+        {
+            "_id": "5e494f51f7910905b6370258",
+            "caseId": "caseId-194",
+            "year": "05/06/1991",
+            "sentence": 22,
+            "numOfCharge": 40
+        },
+        {
+            "_id": "5e494f51a579eeeb215937ab",
+            "caseId": "caseId-193",
+            "year": "03/07/2006",
+            "sentence": 1,
+            "numOfCharge": 7
+        },
+        {
+            "_id": "5e494f5104a3da4228131bda",
+            "caseId": "caseId-134",
+            "year": "22/02/1971",
+            "sentence": 39,
+            "numOfCharge": 23
+        },
+        {
+            "_id": "5e494f51b7ed3bad93fb0f2e",
+            "caseId": "caseId-186",
+            "year": "28/07/1981",
+            "sentence": 5,
+            "numOfCharge": 40
+        },
+        {
+            "_id": "5e494f51a1d0e6c0df92f0d9",
+            "caseId": "caseId-169",
+            "year": "29/12/2018",
+            "sentence": 3,
+            "numOfCharge": 21
+        },
+        {
+            "_id": "5e494f5191aefd2a8a8e4df7",
+            "caseId": "caseId-18",
+            "year": "29/01/1974",
+            "sentence": 31,
+            "numOfCharge": 34
+        },
+        {
+            "_id": "5e494f517b6f169d00d7a92a",
+            "caseId": "caseId-82",
+            "year": "28/08/1989",
+            "sentence": 6,
+            "numOfCharge": 34
+        },
+        {
+            "_id": "5e494f51dabeda183d07fbfb",
+            "caseId": "caseId-84",
+            "year": "12/09/2012",
+            "sentence": 21,
+            "numOfCharge": 38
+        },
+        {
+            "_id": "5e494f51ddb6b466dcb41754",
+            "caseId": "caseId-89",
+            "year": "02/09/1973",
+            "sentence": 8,
+            "numOfCharge": 3
+        },
+        {
+            "_id": "5e494f51fabeca7cf5c2745f",
+            "caseId": "caseId-58",
+            "year": "03/01/2011",
+            "sentence": 2,
+            "numOfCharge": 8
+        },
+        {
+            "_id": "5e494f51a0b9546856010ae9",
+            "caseId": "caseId-65",
+            "year": "26/10/1998",
+            "sentence": 29,
+            "numOfCharge": 36
+        },
+        {
+            "_id": "5e494f51a298dd1e92cac4a8",
+            "caseId": "caseId-35",
+            "year": "25/08/1977",
+            "sentence": 21,
+            "numOfCharge": 36
+        },
+        {
+            "_id": "5e494f5107677749e526d5ed",
+            "caseId": "caseId-175",
+            "year": "06/03/1977",
+            "sentence": 27,
+            "numOfCharge": 22
+        },
+        {
+            "_id": "5e494f5126196ddfab0a2175",
+            "caseId": "caseId-6",
+            "year": "04/12/2019",
+            "sentence": 11,
+            "numOfCharge": 25
+        },
+        {
+            "_id": "5e494f513f52fc2396bea705",
+            "caseId": "caseId-23",
+            "year": "07/05/1996",
+            "sentence": 4,
+            "numOfCharge": 11
+        },
+        {
+            "_id": "5e494f516352d72d06dd6e06",
+            "caseId": "caseId-127",
+            "year": "13/12/1993",
+            "sentence": 35,
+            "numOfCharge": 22
+        },
+        {
+            "_id": "5e494f510a6bf957499ae090",
+            "caseId": "caseId-177",
+            "year": "13/09/1994",
+            "sentence": 25,
+            "numOfCharge": 18
+        },
+        {
+            "_id": "5e494f51f3ae7d2f2d4ab973",
+            "caseId": "caseId-7",
+            "year": "15/05/1999",
+            "sentence": 9,
+            "numOfCharge": 17
+        },
+        {
+            "_id": "5e494f51bc81f94bca918cae",
+            "caseId": "caseId-189",
+            "year": "02/10/2012",
+            "sentence": 22,
+            "numOfCharge": 26
+        },
+        {
+            "_id": "5e494f51d6d1ac5b869390db",
+            "caseId": "caseId-197",
+            "year": "16/03/1988",
+            "sentence": 6,
+            "numOfCharge": 18
+        },
+        {
+            "_id": "5e494f5150e57bdc2da9b0f6",
+            "caseId": "caseId-97",
+            "year": "12/11/2009",
+            "sentence": 40,
+            "numOfCharge": 28
+        },
+        {
+            "_id": "5e494f51274c917e6ddbc224",
+            "caseId": "caseId-91",
+            "year": "18/12/1970",
+            "sentence": 38,
+            "numOfCharge": 9
+        },
+        {
+            "_id": "5e494f515a14618bce8a1fd0",
+            "caseId": "caseId-159",
+            "year": "21/05/1984",
+            "sentence": 5,
+            "numOfCharge": 15
+        },
+        {
+            "_id": "5e494f51bdd5a5044813984d",
+            "caseId": "caseId-85",
+            "year": "23/06/2008",
+            "sentence": 4,
+            "numOfCharge": 22
+        },
+        {
+            "_id": "5e494f513f75ce72cc0f921f",
+            "caseId": "caseId-80",
+            "year": "17/09/2017",
+            "sentence": 40,
+            "numOfCharge": 17
+        },
+        {
+            "_id": "5e494f5148357b3abfded6b5",
+            "caseId": "caseId-129",
+            "year": "04/08/2005",
+            "sentence": 9,
+            "numOfCharge": 21
+        },
+        {
+            "_id": "5e494f518369d57be6a54080",
+            "caseId": "caseId-133",
+            "year": "03/08/1994",
+            "sentence": 11,
+            "numOfCharge": 7
+        },
+        {
+            "_id": "5e494f51054684af26fcf613",
+            "caseId": "caseId-39",
+            "year": "07/09/2018",
+            "sentence": 22,
+            "numOfCharge": 5
+        },
+        {
+            "_id": "5e494f51cce64eb2a5bf8ff4",
+            "caseId": "caseId-131",
+            "year": "23/01/1996",
+            "sentence": 20,
+            "numOfCharge": 17
+        },
+        {
+            "_id": "5e494f5171af039e24f4644d",
+            "caseId": "caseId-97",
+            "year": "20/03/1997",
+            "sentence": 1,
+            "numOfCharge": 6
+        },
+        {
+            "_id": "5e494f51ba60fac0d7b11860",
+            "caseId": "caseId-69",
+            "year": "16/12/2006",
+            "sentence": 19,
+            "numOfCharge": 4
+        },
+        {
+            "_id": "5e494f5140dcbf74b2170e68",
+            "caseId": "caseId-20",
+            "year": "15/01/1982",
+            "sentence": 25,
+            "numOfCharge": 16
+        },
+        {
+            "_id": "5e494f5116bef71acdfadffd",
+            "caseId": "caseId-159",
+            "year": "28/08/1993",
+            "sentence": 17,
+            "numOfCharge": 28
+        },
+        {
+            "_id": "5e494f51fad403ccb47998ff",
+            "caseId": "caseId-74",
+            "year": "13/07/2011",
+            "sentence": 4,
+            "numOfCharge": 37
+        },
+        {
+            "_id": "5e494f51229935bdfc406a63",
+            "caseId": "caseId-79",
+            "year": "10/03/1992",
+            "sentence": 5,
+            "numOfCharge": 7
+        },
+        {
+            "_id": "5e494f515ddf2efc2ea96fd0",
+            "caseId": "caseId-163",
+            "year": "07/11/1989",
+            "sentence": 35,
+            "numOfCharge": 13
+        },
+        {
+            "_id": "5e494f516125e2f6d25b77ef",
+            "caseId": "caseId-56",
+            "year": "22/11/1980",
+            "sentence": 37,
+            "numOfCharge": 35
+        },
+        {
+            "_id": "5e494f516ee136470761e52b",
+            "caseId": "caseId-149",
+            "year": "13/01/1993",
+            "sentence": 39,
+            "numOfCharge": 21
+        },
+        {
+            "_id": "5e494f51873da1c86451fb7b",
+            "caseId": "caseId-118",
+            "year": "04/08/1977",
+            "sentence": 38,
+            "numOfCharge": 23
+        },
+        {
+            "_id": "5e494f51c3fa9e982881a481",
+            "caseId": "caseId-53",
+            "year": "29/06/2010",
+            "sentence": 27,
+            "numOfCharge": 30
+        },
+        {
+            "_id": "5e494f51fedbc578d7f77dac",
+            "caseId": "caseId-31",
+            "year": "11/06/1985",
+            "sentence": 21,
+            "numOfCharge": 7
+        },
+        {
+            "_id": "5e494f51dd58cd3f40f2dc7d",
+            "caseId": "caseId-180",
+            "year": "04/07/1971",
+            "sentence": 31,
+            "numOfCharge": 33
+        },
+        {
+            "_id": "5e494f5199f5508a2f3b323b",
+            "caseId": "caseId-49",
+            "year": "28/05/1996",
+            "sentence": 18,
+            "numOfCharge": 26
+        },
+        {
+            "_id": "5e494f51923dc2d9730b8c20",
+            "caseId": "caseId-119",
+            "year": "04/05/1972",
+            "sentence": 39,
+            "numOfCharge": 22
+        },
+        {
+            "_id": "5e494f516ed6915517426ff5",
+            "caseId": "caseId-111",
+            "year": "03/03/2013",
+            "sentence": 14,
+            "numOfCharge": 18
+        },
+        {
+            "_id": "5e494f519667879a5e47bf6f",
+            "caseId": "caseId-171",
+            "year": "07/12/1998",
+            "sentence": 10,
+            "numOfCharge": 12
+        },
+        {
+            "_id": "5e494f5108ed12bdfafd0f9d",
+            "caseId": "caseId-172",
+            "year": "05/07/1987",
+            "sentence": 35,
+            "numOfCharge": 29
+        },
+        {
+            "_id": "5e494f518d2256a622515a8d",
+            "caseId": "caseId-114",
+            "year": "29/11/2012",
+            "sentence": 1,
+            "numOfCharge": 30
+        },
+        {
+            "_id": "5e494f512a7714ef278bb509",
+            "caseId": "caseId-52",
+            "year": "01/10/1997",
+            "sentence": 10,
+            "numOfCharge": 27
+        },
+        {
+            "_id": "5e494f5148954f27f82745df",
+            "caseId": "caseId-32",
+            "year": "16/04/2000",
+            "sentence": 35,
+            "numOfCharge": 40
+        },
+        {
+            "_id": "5e494f5158ef142dd9bdc57a",
+            "caseId": "caseId-110",
+            "year": "29/01/1974",
+            "sentence": 21,
+            "numOfCharge": 39
+        },
+        {
+            "_id": "5e494f51afb73389733b357c",
+            "caseId": "caseId-117",
+            "year": "20/02/2001",
+            "sentence": 4,
+            "numOfCharge": 24
+        },
+        {
+            "_id": "5e494f515141f32b0dd6e550",
+            "caseId": "caseId-97",
+            "year": "16/05/1988",
+            "sentence": 32,
+            "numOfCharge": 5
+        },
+        {
+            "_id": "5e494f5191bf1683b8a06ff8",
+            "caseId": "caseId-112",
+            "year": "29/08/2018",
+            "sentence": 8,
+            "numOfCharge": 27
+        },
+        {
+            "_id": "5e494f51501a97e3628a07c3",
+            "caseId": "caseId-108",
+            "year": "28/07/1972",
+            "sentence": 5,
+            "numOfCharge": 25
+        },
+        {
+            "_id": "5e494f51a466af5c611e5cb2",
+            "caseId": "caseId-79",
+            "year": "26/08/1995",
+            "sentence": 32,
+            "numOfCharge": 34
+        },
+        {
+            "_id": "5e494f5158fd44ded05ff05c",
+            "caseId": "caseId-160",
+            "year": "28/10/2003",
+            "sentence": 30,
+            "numOfCharge": 22
+        },
+        {
+            "_id": "5e494f5100ef79b63d1a558c",
+            "caseId": "caseId-118",
+            "year": "21/01/1990",
+            "sentence": 17,
+            "numOfCharge": 5
+        },
+        {
+            "_id": "5e494f51b8d97b0bca1992b7",
+            "caseId": "caseId-23",
+            "year": "16/03/1996",
+            "sentence": 1,
+            "numOfCharge": 17
+        },
+        {
+            "_id": "5e494f5103e2d940d3808ddb",
+            "caseId": "caseId-34",
+            "year": "04/01/1971",
+            "sentence": 1,
+            "numOfCharge": 26
+        },
+        {
+            "_id": "5e494f512819ede8e3e9aeaf",
+            "caseId": "caseId-147",
+            "year": "21/10/2015",
+            "sentence": 29,
+            "numOfCharge": 20
+        },
+        {
+            "_id": "5e494f51a745c4c20f09b6e0",
+            "caseId": "caseId-64",
+            "year": "29/05/1980",
+            "sentence": 19,
+            "numOfCharge": 16
+        },
+        {
+            "_id": "5e494f51504d7f559e6b1f31",
+            "caseId": "caseId-16",
+            "year": "08/03/1974",
+            "sentence": 34,
+            "numOfCharge": 27
+        },
+        {
+            "_id": "5e494f513aef0c55f4eeaf2f",
+            "caseId": "caseId-58",
+            "year": "14/03/2000",
+            "sentence": 25,
+            "numOfCharge": 21
+        },
+        {
+            "_id": "5e494f51bd1b3be73c7aaa0d",
+            "caseId": "caseId-126",
+            "year": "08/09/1996",
+            "sentence": 21,
+            "numOfCharge": 4
+        },
+        {
+            "_id": "5e494f517ce3ab8df8022894",
+            "caseId": "caseId-144",
+            "year": "17/02/1979",
+            "sentence": 25,
+            "numOfCharge": 31
+        },
+        {
+            "_id": "5e494f5168b08e4cb83eb327",
+            "caseId": "caseId-161",
+            "year": "23/02/1982",
+            "sentence": 35,
+            "numOfCharge": 24
+        },
+        {
+            "_id": "5e494f510d2915d9e27b3080",
+            "caseId": "caseId-56",
+            "year": "09/08/1985",
+            "sentence": 15,
+            "numOfCharge": 30
+        },
+        {
+            "_id": "5e494f510dd5433c437c1e3d",
+            "caseId": "caseId-120",
+            "year": "07/09/1974",
+            "sentence": 37,
+            "numOfCharge": 40
+        },
+        {
+            "_id": "5e494f514b338aea9522371b",
+            "caseId": "caseId-147",
+            "year": "17/09/2005",
+            "sentence": 24,
+            "numOfCharge": 35
+        },
+        {
+            "_id": "5e494f51ed66846583298784",
+            "caseId": "caseId-4",
+            "year": "12/11/2005",
+            "sentence": 40,
+            "numOfCharge": 14
+        },
+        {
+            "_id": "5e494f5145b11ed005aa79f7",
+            "caseId": "caseId-149",
+            "year": "05/06/2016",
+            "sentence": 8,
+            "numOfCharge": 20
+        },
+        {
+            "_id": "5e494f515d9f48f8621f8535",
+            "caseId": "caseId-165",
+            "year": "25/06/1976",
+            "sentence": 21,
+            "numOfCharge": 5
+        },
+        {
+            "_id": "5e494f513dbbcd2db0496c1e",
+            "caseId": "caseId-0",
+            "year": "13/11/1978",
+            "sentence": 39,
+            "numOfCharge": 24
+        },
+        {
+            "_id": "5e494f5196d600e5bae4f0ce",
+            "caseId": "caseId-116",
+            "year": "30/07/1972",
+            "sentence": 27,
+            "numOfCharge": 32
+        },
+        {
+            "_id": "5e494f5189d0310f3a9d4936",
+            "caseId": "caseId-187",
+            "year": "03/12/2007",
+            "sentence": 18,
+            "numOfCharge": 1
+        },
+        {
+            "_id": "5e494f51787c62879b59f9a5",
+            "caseId": "caseId-176",
+            "year": "26/12/2005",
+            "sentence": 10,
+            "numOfCharge": 12
+        },
+        {
+            "_id": "5e494f510223ba84f08d9ade",
+            "caseId": "caseId-46",
+            "year": "16/05/2006",
+            "sentence": 20,
+            "numOfCharge": 34
+        },
+        {
+            "_id": "5e494f514c59016168e7d814",
+            "caseId": "caseId-23",
+            "year": "05/03/1971",
+            "sentence": 7,
+            "numOfCharge": 10
+        },
+        {
+            "_id": "5e494f51cef9620855e97020",
+            "caseId": "caseId-181",
+            "year": "26/09/1992",
+            "sentence": 17,
+            "numOfCharge": 1
+        },
+        {
+            "_id": "5e494f5123ea086fa72871f3",
+            "caseId": "caseId-8",
+            "year": "12/12/1980",
+            "sentence": 36,
+            "numOfCharge": 25
+        },
+        {
+            "_id": "5e494f51e26827d4bc257a84",
+            "caseId": "caseId-92",
+            "year": "05/06/2012",
+            "sentence": 1,
+            "numOfCharge": 1
+        },
+        {
+            "_id": "5e494f51e0fb16f075e401a4",
+            "caseId": "caseId-163",
+            "year": "23/02/1976",
+            "sentence": 12,
+            "numOfCharge": 3
+        },
+        {
+            "_id": "5e494f516438e0d688592a2d",
+            "caseId": "caseId-92",
+            "year": "23/03/2004",
+            "sentence": 12,
+            "numOfCharge": 2
+        },
+        {
+            "_id": "5e494f5162babeedfae863b3",
+            "caseId": "caseId-52",
+            "year": "09/01/1983",
+            "sentence": 18,
+            "numOfCharge": 37
+        },
+        {
+            "_id": "5e494f51a6f358f08c69bdfd",
+            "caseId": "caseId-56",
+            "year": "09/10/2010",
+            "sentence": 6,
+            "numOfCharge": 5
+        },
+        {
+            "_id": "5e494f51c36f6d90d96a8e83",
+            "caseId": "caseId-112",
+            "year": "17/04/1999",
+            "sentence": 3,
+            "numOfCharge": 9
+        },
+        {
+            "_id": "5e494f5195a19c6a2732abea",
+            "caseId": "caseId-194",
+            "year": "20/07/2015",
+            "sentence": 28,
+            "numOfCharge": 14
+        },
+        {
+            "_id": "5e494f51dafcbe17012aca48",
+            "caseId": "caseId-164",
+            "year": "28/04/1985",
+            "sentence": 37,
+            "numOfCharge": 21
+        },
+        {
+            "_id": "5e494f5199de7ffa5c2328b6",
+            "caseId": "caseId-37",
+            "year": "10/07/1979",
+            "sentence": 15,
+            "numOfCharge": 1
+        },
+        {
+            "_id": "5e494f513b998afee4d94c2d",
+            "caseId": "caseId-41",
+            "year": "19/06/2011",
+            "sentence": 5,
+            "numOfCharge": 38
+        },
+        {
+            "_id": "5e494f517e39b98aaf4f85d6",
+            "caseId": "caseId-127",
+            "year": "02/04/2005",
+            "sentence": 10,
+            "numOfCharge": 1
+        },
+        {
+            "_id": "5e494f519383ad2174ba87d1",
+            "caseId": "caseId-111",
+            "year": "06/03/1980",
+            "sentence": 4,
+            "numOfCharge": 9
+        },
+        {
+            "_id": "5e494f51620c146a1277d8da",
+            "caseId": "caseId-161",
+            "year": "25/02/1996",
+            "sentence": 5,
+            "numOfCharge": 27
+        },
+        {
+            "_id": "5e494f51d10ff70cf6f408c0",
+            "caseId": "caseId-23",
+            "year": "25/10/1973",
+            "sentence": 37,
+            "numOfCharge": 27
+        },
+        {
+            "_id": "5e494f513ba9114b0def3170",
+            "caseId": "caseId-3",
+            "year": "10/02/1977",
+            "sentence": 35,
+            "numOfCharge": 28
+        },
+        {
+            "_id": "5e494f51657548a77d80fa2e",
+            "caseId": "caseId-87",
+            "year": "27/01/2018",
+            "sentence": 9,
+            "numOfCharge": 3
+        },
+        {
+            "_id": "5e494f51556d85b9af14b12b",
+            "caseId": "caseId-104",
+            "year": "28/05/1988",
+            "sentence": 12,
+            "numOfCharge": 26
+        },
+        {
+            "_id": "5e494f51a8b7e15ac764b79b",
+            "caseId": "caseId-37",
+            "year": "21/12/1996",
+            "sentence": 21,
+            "numOfCharge": 17
+        },
+        {
+            "_id": "5e494f51c45607e8257855c1",
+            "caseId": "caseId-61",
+            "year": "20/01/2020",
+            "sentence": 5,
+            "numOfCharge": 22
+        },
+        {
+            "_id": "5e494f510c6bf700562d400d",
+            "caseId": "caseId-3",
+            "year": "10/05/1979",
+            "sentence": 18,
+            "numOfCharge": 36
+        },
+        {
+            "_id": "5e494f518fa30253d54cc019",
+            "caseId": "caseId-14",
+            "year": "06/04/1970",
+            "sentence": 36,
+            "numOfCharge": 9
+        },
+        {
+            "_id": "5e494f5148bc310746892371",
+            "caseId": "caseId-129",
+            "year": "18/02/1973",
+            "sentence": 36,
+            "numOfCharge": 14
+        },
+        {
+            "_id": "5e494f5149f5281d6b41f06a",
+            "caseId": "caseId-141",
+            "year": "29/03/1998",
+            "sentence": 37,
+            "numOfCharge": 25
+        },
+        {
+            "_id": "5e494f51c99cc33716b98e7a",
+            "caseId": "caseId-194",
+            "year": "09/12/2016",
+            "sentence": 32,
+            "numOfCharge": 8
+        },
+        {
+            "_id": "5e494f51f0273cadf801bf38",
+            "caseId": "caseId-83",
+            "year": "02/07/2015",
+            "sentence": 35,
+            "numOfCharge": 34
+        },
+        {
+            "_id": "5e494f5180a1738e20b1929f",
+            "caseId": "caseId-123",
+            "year": "10/09/1984",
+            "sentence": 23,
+            "numOfCharge": 17
+        },
+        {
+            "_id": "5e494f51ce40ff79620581b4",
+            "caseId": "caseId-52",
+            "year": "25/03/1987",
+            "sentence": 21,
+            "numOfCharge": 28
+        },
+        {
+            "_id": "5e494f51850a34d3ad31009c",
+            "caseId": "caseId-14",
+            "year": "14/07/1998",
+            "sentence": 2,
+            "numOfCharge": 31
+        },
+        {
+            "_id": "5e494f519cfee4ead35e1910",
+            "caseId": "caseId-139",
+            "year": "29/10/1985",
+            "sentence": 18,
+            "numOfCharge": 3
+        },
+        {
+            "_id": "5e494f518f320414f21e2de0",
+            "caseId": "caseId-53",
+            "year": "06/11/1988",
+            "sentence": 22,
+            "numOfCharge": 29
+        },
+        {
+            "_id": "5e494f51d52cfbe9ac6b5275",
+            "caseId": "caseId-182",
+            "year": "02/02/1993",
+            "sentence": 31,
+            "numOfCharge": 29
+        },
+        {
+            "_id": "5e494f5160f3f3792b24fdc6",
+            "caseId": "caseId-193",
+            "year": "23/04/2002",
+            "sentence": 33,
+            "numOfCharge": 1
+        },
+        {
+            "_id": "5e494f51c367c99ca2af5e3f",
+            "caseId": "caseId-137",
+            "year": "15/04/1983",
+            "sentence": 16,
+            "numOfCharge": 23
+        },
+        {
+            "_id": "5e494f51acc4a7fb1b364f00",
+            "caseId": "caseId-83",
+            "year": "14/10/2010",
+            "sentence": 10,
+            "numOfCharge": 27
+        },
+        {
+            "_id": "5e494f51e4bd904f6d1f0cab",
+            "caseId": "caseId-22",
+            "year": "20/03/2017",
+            "sentence": 22,
+            "numOfCharge": 24
+        },
+        {
+            "_id": "5e494f5174188e249d2dd12b",
+            "caseId": "caseId-58",
+            "year": "19/08/2004",
+            "sentence": 34,
+            "numOfCharge": 8
+        },
+        {
+            "_id": "5e494f51b650c23f6d10b8a3",
+            "caseId": "caseId-141",
+            "year": "03/01/2015",
+            "sentence": 33,
+            "numOfCharge": 40
+        },
+        {
+            "_id": "5e494f51dcde28b2ebecdbe5",
+            "caseId": "caseId-29",
+            "year": "28/07/1972",
+            "sentence": 28,
+            "numOfCharge": 26
+        },
+        {
+            "_id": "5e494f512582104258f2a93d",
+            "caseId": "caseId-200",
+            "year": "19/07/2000",
+            "sentence": 28,
+            "numOfCharge": 3
+        },
+        {
+            "_id": "5e494f5184dc79ba1a1d5a50",
+            "caseId": "caseId-156",
+            "year": "19/07/2004",
+            "sentence": 26,
+            "numOfCharge": 26
+        },
+        {
+            "_id": "5e494f515b467b06f34bfaff",
+            "caseId": "caseId-161",
+            "year": "21/04/1985",
+            "sentence": 36,
+            "numOfCharge": 15
+        },
+        {
+            "_id": "5e494f512cc64d3aab9f4c0c",
+            "caseId": "caseId-24",
+            "year": "27/01/2019",
+            "sentence": 18,
+            "numOfCharge": 12
+        },
+        {
+            "_id": "5e494f51f0fb92780ebfc2f9",
+            "caseId": "caseId-99",
+            "year": "25/05/1977",
+            "sentence": 15,
+            "numOfCharge": 20
+        },
+        {
+            "_id": "5e494f51caa09441f62d198d",
+            "caseId": "caseId-5",
+            "year": "31/12/2006",
+            "sentence": 2,
+            "numOfCharge": 13
+        },
+        {
+            "_id": "5e494f51b6e55ec52153fc65",
+            "caseId": "caseId-151",
+            "year": "09/05/1975",
+            "sentence": 38,
+            "numOfCharge": 39
+        },
+        {
+            "_id": "5e494f51e1f440e7846de3de",
+            "caseId": "caseId-190",
+            "year": "19/12/2002",
+            "sentence": 3,
+            "numOfCharge": 33
+        },
+        {
+            "_id": "5e494f5137a9bf871b54942f",
+            "caseId": "caseId-42",
+            "year": "31/03/1991",
+            "sentence": 24,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f51466efddff6636291",
+            "caseId": "caseId-164",
+            "year": "08/11/1973",
+            "sentence": 32,
+            "numOfCharge": 14
+        },
+        {
+            "_id": "5e494f51b1a4b2c5f6926081",
+            "caseId": "caseId-91",
+            "year": "19/07/1990",
+            "sentence": 29,
+            "numOfCharge": 37
+        },
+        {
+            "_id": "5e494f511ddfb2c4e731c312",
+            "caseId": "caseId-118",
+            "year": "22/09/2018",
+            "sentence": 37,
+            "numOfCharge": 34
+        },
+        {
+            "_id": "5e494f51340518091c9b9059",
+            "caseId": "caseId-160",
+            "year": "03/10/1994",
+            "sentence": 19,
+            "numOfCharge": 2
+        },
+        {
+            "_id": "5e494f516f2cdb9262b06551",
+            "caseId": "caseId-170",
+            "year": "11/08/1990",
+            "sentence": 35,
+            "numOfCharge": 9
+        },
+        {
+            "_id": "5e494f5120c52569f10bd73a",
+            "caseId": "caseId-181",
+            "year": "25/10/1991",
+            "sentence": 9,
+            "numOfCharge": 12
+        },
+        {
+            "_id": "5e494f515010fd749d45000d",
+            "caseId": "caseId-166",
+            "year": "01/01/2018",
+            "sentence": 24,
+            "numOfCharge": 5
+        },
+        {
+            "_id": "5e494f519fba625fa8de7afc",
+            "caseId": "caseId-38",
+            "year": "28/09/2011",
+            "sentence": 7,
+            "numOfCharge": 20
+        },
+        {
+            "_id": "5e494f51073c813e884ab260",
+            "caseId": "caseId-89",
+            "year": "14/08/1978",
+            "sentence": 19,
+            "numOfCharge": 24
+        },
+        {
+            "_id": "5e494f51db07199375f90265",
+            "caseId": "caseId-138",
+            "year": "17/04/1985",
+            "sentence": 16,
+            "numOfCharge": 12
+        },
+        {
+            "_id": "5e494f5142fbf19a5764c77d",
+            "caseId": "caseId-41",
+            "year": "27/12/1988",
+            "sentence": 33,
+            "numOfCharge": 33
+        },
+        {
+            "_id": "5e494f51196fea8495033145",
+            "caseId": "caseId-106",
+            "year": "04/02/2012",
+            "sentence": 3,
+            "numOfCharge": 12
+        },
+        {
+            "_id": "5e494f51157d77bec4bab078",
+            "caseId": "caseId-137",
+            "year": "10/04/1990",
+            "sentence": 7,
+            "numOfCharge": 17
+        },
+        {
+            "_id": "5e494f5145e14122d0ecf989",
+            "caseId": "caseId-89",
+            "year": "23/12/2013",
+            "sentence": 16,
+            "numOfCharge": 32
+        },
+        {
+            "_id": "5e494f51d64c13d37fca03c7",
+            "caseId": "caseId-111",
+            "year": "02/11/1989",
+            "sentence": 40,
+            "numOfCharge": 38
+        },
+        {
+            "_id": "5e494f516e1c3a99a4026e44",
+            "caseId": "caseId-193",
+            "year": "21/11/1998",
+            "sentence": 19,
+            "numOfCharge": 24
+        },
+        {
+            "_id": "5e494f5135e1ca7f259ea652",
+            "caseId": "caseId-193",
+            "year": "08/06/1983",
+            "sentence": 10,
+            "numOfCharge": 40
+        },
+        {
+            "_id": "5e494f51132384723d4deef7",
+            "caseId": "caseId-18",
+            "year": "05/05/1995",
+            "sentence": 2,
+            "numOfCharge": 38
+        },
+        {
+            "_id": "5e494f51fb20def8ddaeefed",
+            "caseId": "caseId-68",
+            "year": "03/04/1993",
+            "sentence": 30,
+            "numOfCharge": 11
+        },
+        {
+            "_id": "5e494f5157943ffadfa05a11",
+            "caseId": "caseId-30",
+            "year": "28/05/1977",
+            "sentence": 29,
+            "numOfCharge": 16
+        },
+        {
+            "_id": "5e494f517a77363a928b0552",
+            "caseId": "caseId-191",
+            "year": "15/04/1985",
+            "sentence": 5,
+            "numOfCharge": 40
+        },
+        {
+            "_id": "5e494f51e20a99f2302fa14b",
+            "caseId": "caseId-69",
+            "year": "17/07/1999",
+            "sentence": 26,
+            "numOfCharge": 10
+        },
+        {
+            "_id": "5e494f51776ec00ab6bb9079",
+            "caseId": "caseId-166",
+            "year": "17/04/1994",
+            "sentence": 34,
+            "numOfCharge": 33
+        },
+        {
+            "_id": "5e494f519901b6e5e4e4afd2",
+            "caseId": "caseId-137",
+            "year": "15/10/2019",
+            "sentence": 28,
+            "numOfCharge": 1
+        },
+        {
+            "_id": "5e494f518c542d09b79a0f8b",
+            "caseId": "caseId-92",
+            "year": "03/12/1972",
+            "sentence": 37,
+            "numOfCharge": 34
+        },
+        {
+            "_id": "5e494f51f9c15e15fa4548c5",
+            "caseId": "caseId-68",
+            "year": "08/03/1996",
+            "sentence": 34,
+            "numOfCharge": 29
+        },
+        {
+            "_id": "5e494f51506259676ea88efb",
+            "caseId": "caseId-150",
+            "year": "14/11/2002",
+            "sentence": 20,
+            "numOfCharge": 11
+        },
+        {
+            "_id": "5e494f51a17e63e1ae967661",
+            "caseId": "caseId-70",
+            "year": "15/06/2008",
+            "sentence": 25,
+            "numOfCharge": 39
+        },
+        {
+            "_id": "5e494f5142576df4a8ab0d4c",
+            "caseId": "caseId-95",
+            "year": "11/12/1994",
+            "sentence": 1,
+            "numOfCharge": 9
+        },
+        {
+            "_id": "5e494f515bd4018dcc2aa26d",
+            "caseId": "caseId-75",
+            "year": "09/01/1988",
+            "sentence": 12,
+            "numOfCharge": 17
+        },
+        {
+            "_id": "5e494f5187c698a7f6cb1bee",
+            "caseId": "caseId-61",
+            "year": "27/04/1999",
+            "sentence": 6,
+            "numOfCharge": 11
+        },
+        {
+            "_id": "5e494f51168941aa3dd657f0",
+            "caseId": "caseId-180",
+            "year": "24/07/2005",
+            "sentence": 17,
+            "numOfCharge": 35
+        },
+        {
+            "_id": "5e494f51e2aef64ac04db411",
+            "caseId": "caseId-53",
+            "year": "13/01/1978",
+            "sentence": 4,
+            "numOfCharge": 11
+        },
+        {
+            "_id": "5e494f51e065c712affb003f",
+            "caseId": "caseId-157",
+            "year": "19/05/1981",
+            "sentence": 36,
+            "numOfCharge": 21
+        },
+        {
+            "_id": "5e494f5160b5d98c9ac0f56c",
+            "caseId": "caseId-17",
+            "year": "19/07/1970",
+            "sentence": 18,
+            "numOfCharge": 31
+        },
+        {
+            "_id": "5e494f518cff4fd6532266ee",
+            "caseId": "caseId-57",
+            "year": "24/08/1998",
+            "sentence": 28,
+            "numOfCharge": 10
+        },
+        {
+            "_id": "5e494f51482cbe91f412e875",
+            "caseId": "caseId-154",
+            "year": "05/10/1998",
+            "sentence": 24,
+            "numOfCharge": 24
+        },
+        {
+            "_id": "5e494f5172d914c79d1ee0ae",
+            "caseId": "caseId-137",
+            "year": "27/11/1978",
+            "sentence": 23,
+            "numOfCharge": 20
+        },
+        {
+            "_id": "5e494f5114a24cbed39c76cc",
+            "caseId": "caseId-44",
+            "year": "23/03/1979",
+            "sentence": 25,
+            "numOfCharge": 10
+        },
+        {
+            "_id": "5e494f518c036e90e295270f",
+            "caseId": "caseId-22",
+            "year": "20/11/2011",
+            "sentence": 30,
+            "numOfCharge": 15
+        },
+        {
+            "_id": "5e494f51a20b2d6bcdc9aab6",
+            "caseId": "caseId-111",
+            "year": "26/08/2015",
+            "sentence": 9,
+            "numOfCharge": 37
+        },
+        {
+            "_id": "5e494f51f6ba33b730623307",
+            "caseId": "caseId-39",
+            "year": "28/06/1978",
+            "sentence": 23,
+            "numOfCharge": 27
+        },
+        {
+            "_id": "5e494f51ec99111134aab391",
+            "caseId": "caseId-37",
+            "year": "07/09/2008",
+            "sentence": 25,
+            "numOfCharge": 10
+        },
+        {
+            "_id": "5e494f51a54f6c79c3a41204",
+            "caseId": "caseId-157",
+            "year": "11/04/2016",
+            "sentence": 5,
+            "numOfCharge": 24
+        },
+        {
+            "_id": "5e494f51d10620520dd2269d",
+            "caseId": "caseId-149",
+            "year": "15/02/2008",
+            "sentence": 9,
+            "numOfCharge": 26
+        },
+        {
+            "_id": "5e494f513e5e22ade58aa14f",
+            "caseId": "caseId-146",
+            "year": "13/04/1996",
+            "sentence": 23,
+            "numOfCharge": 22
+        },
+        {
+            "_id": "5e494f51ea6a0be3297cf09e",
+            "caseId": "caseId-127",
+            "year": "20/05/1982",
+            "sentence": 36,
+            "numOfCharge": 34
+        },
+        {
+            "_id": "5e494f51cba77ed684f47b2d",
+            "caseId": "caseId-197",
+            "year": "17/10/2010",
+            "sentence": 28,
+            "numOfCharge": 12
+        },
+        {
+            "_id": "5e494f51fce6c4b0ecff9464",
+            "caseId": "caseId-190",
+            "year": "09/08/2014",
+            "sentence": 8,
+            "numOfCharge": 35
+        },
+        {
+            "_id": "5e494f515139a997ec1a3f67",
+            "caseId": "caseId-72",
+            "year": "02/01/1989",
+            "sentence": 38,
+            "numOfCharge": 12
+        },
+        {
+            "_id": "5e494f515e0a1c7863760bb5",
+            "caseId": "caseId-97",
+            "year": "16/12/1982",
+            "sentence": 36,
+            "numOfCharge": 31
+        },
+        {
+            "_id": "5e494f5101c21bd4f21c0bd3",
+            "caseId": "caseId-70",
+            "year": "10/03/1972",
+            "sentence": 6,
+            "numOfCharge": 21
+        },
+        {
+            "_id": "5e494f5173aae88ccdc17efc",
+            "caseId": "caseId-188",
+            "year": "21/04/1974",
+            "sentence": 24,
+            "numOfCharge": 34
+        },
+        {
+            "_id": "5e494f514f2667775eab0ab2",
+            "caseId": "caseId-8",
+            "year": "16/03/2001",
+            "sentence": 27,
+            "numOfCharge": 3
+        },
+        {
+            "_id": "5e494f512e4680065522f534",
+            "caseId": "caseId-20",
+            "year": "25/05/1982",
+            "sentence": 35,
+            "numOfCharge": 17
+        },
+        {
+            "_id": "5e494f51d30874beb0a8c77a",
+            "caseId": "caseId-189",
+            "year": "10/07/1985",
+            "sentence": 38,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f5136d6739c0779ab25",
+            "caseId": "caseId-149",
+            "year": "05/02/1979",
+            "sentence": 32,
+            "numOfCharge": 7
+        },
+        {
+            "_id": "5e494f512ad24107e30d2790",
+            "caseId": "caseId-93",
+            "year": "30/04/2000",
+            "sentence": 34,
+            "numOfCharge": 11
+        },
+        {
+            "_id": "5e494f518e67729daf60f66b",
+            "caseId": "caseId-38",
+            "year": "01/01/1993",
+            "sentence": 33,
+            "numOfCharge": 16
+        },
+        {
+            "_id": "5e494f51ca1fbbd23658df8e",
+            "caseId": "caseId-74",
+            "year": "23/02/2011",
+            "sentence": 34,
+            "numOfCharge": 9
+        },
+        {
+            "_id": "5e494f5132cd14f5337f4f30",
+            "caseId": "caseId-121",
+            "year": "12/10/1976",
+            "sentence": 4,
+            "numOfCharge": 25
+        },
+        {
+            "_id": "5e494f51dfb044a134c20353",
+            "caseId": "caseId-135",
+            "year": "15/11/1972",
+            "sentence": 1,
+            "numOfCharge": 34
+        },
+        {
+            "_id": "5e494f51675caa4c3f07e212",
+            "caseId": "caseId-129",
+            "year": "31/12/1975",
+            "sentence": 28,
+            "numOfCharge": 9
+        },
+        {
+            "_id": "5e494f51508d38eaad1755fe",
+            "caseId": "caseId-177",
+            "year": "18/04/1983",
+            "sentence": 29,
+            "numOfCharge": 27
+        },
+        {
+            "_id": "5e494f51c0c837a43b8c5a1f",
+            "caseId": "caseId-1",
+            "year": "27/01/2006",
+            "sentence": 17,
+            "numOfCharge": 8
+        },
+        {
+            "_id": "5e494f51e99dd4e885fc3f1a",
+            "caseId": "caseId-153",
+            "year": "15/11/1996",
+            "sentence": 25,
+            "numOfCharge": 34
+        },
+        {
+            "_id": "5e494f5104857abe1a48fcd4",
+            "caseId": "caseId-47",
+            "year": "28/07/1978",
+            "sentence": 28,
+            "numOfCharge": 35
+        },
+        {
+            "_id": "5e494f513a219f1a9c92b0f5",
+            "caseId": "caseId-143",
+            "year": "05/03/2015",
+            "sentence": 20,
+            "numOfCharge": 39
+        },
+        {
+            "_id": "5e494f51762be5edd52e20e2",
+            "caseId": "caseId-115",
+            "year": "05/05/2013",
+            "sentence": 15,
+            "numOfCharge": 21
+        },
+        {
+            "_id": "5e494f5161e08f3dbd62b957",
+            "caseId": "caseId-159",
+            "year": "16/12/2001",
+            "sentence": 7,
+            "numOfCharge": 29
+        },
+        {
+            "_id": "5e494f51816ae6e14fe8da07",
+            "caseId": "caseId-28",
+            "year": "19/02/1996",
+            "sentence": 37,
+            "numOfCharge": 12
+        },
+        {
+            "_id": "5e494f518581ef00638a4a68",
+            "caseId": "caseId-80",
+            "year": "21/08/1972",
+            "sentence": 30,
+            "numOfCharge": 12
+        },
+        {
+            "_id": "5e494f51e823b0a66ab32dd7",
+            "caseId": "caseId-40",
+            "year": "29/07/2006",
+            "sentence": 30,
+            "numOfCharge": 29
+        },
+        {
+            "_id": "5e494f51a3712f033a4d17e6",
+            "caseId": "caseId-147",
+            "year": "10/07/1990",
+            "sentence": 21,
+            "numOfCharge": 31
+        },
+        {
+            "_id": "5e494f511e439001f379d986",
+            "caseId": "caseId-112",
+            "year": "17/01/1983",
+            "sentence": 7,
+            "numOfCharge": 24
+        },
+        {
+            "_id": "5e494f5186ff48219a163418",
+            "caseId": "caseId-25",
+            "year": "05/02/1983",
+            "sentence": 7,
+            "numOfCharge": 29
+        },
+        {
+            "_id": "5e494f5180f91983e581a7e0",
+            "caseId": "caseId-169",
+            "year": "10/04/2012",
+            "sentence": 16,
+            "numOfCharge": 15
+        },
+        {
+            "_id": "5e494f5181640401571e6a19",
+            "caseId": "caseId-3",
+            "year": "09/01/1977",
+            "sentence": 20,
+            "numOfCharge": 32
+        },
+        {
+            "_id": "5e494f512b2bfcd32fd36df8",
+            "caseId": "caseId-90",
+            "year": "01/01/1981",
+            "sentence": 15,
+            "numOfCharge": 4
+        },
+        {
+            "_id": "5e494f51d31a3ddb8b21d3d9",
+            "caseId": "caseId-166",
+            "year": "14/10/1994",
+            "sentence": 26,
+            "numOfCharge": 30
+        },
+        {
+            "_id": "5e494f51f65630be5aec3753",
+            "caseId": "caseId-25",
+            "year": "29/09/1999",
+            "sentence": 27,
+            "numOfCharge": 39
+        },
+        {
+            "_id": "5e494f51506436e03a631f7e",
+            "caseId": "caseId-179",
+            "year": "15/11/2004",
+            "sentence": 5,
+            "numOfCharge": 30
+        },
+        {
+            "_id": "5e494f518bf3275e88f075da",
+            "caseId": "caseId-7",
+            "year": "18/11/1985",
+            "sentence": 36,
+            "numOfCharge": 2
+        },
+        {
+            "_id": "5e494f51bc89e70c8c793f8c",
+            "caseId": "caseId-100",
+            "year": "19/07/1986",
+            "sentence": 25,
+            "numOfCharge": 33
+        },
+        {
+            "_id": "5e494f518be33293c67316e7",
+            "caseId": "caseId-181",
+            "year": "27/04/1994",
+            "sentence": 15,
+            "numOfCharge": 23
+        },
+        {
+            "_id": "5e494f51721d63ba349cb452",
+            "caseId": "caseId-143",
+            "year": "26/10/1996",
+            "sentence": 8,
+            "numOfCharge": 7
+        },
+        {
+            "_id": "5e494f51dbda489a14cd0128",
+            "caseId": "caseId-151",
+            "year": "17/12/2014",
+            "sentence": 39,
+            "numOfCharge": 39
+        },
+        {
+            "_id": "5e494f51ad1dcb85b7b30012",
+            "caseId": "caseId-25",
+            "year": "04/04/1981",
+            "sentence": 19,
+            "numOfCharge": 7
+        },
+        {
+            "_id": "5e494f519258c491b33ded32",
+            "caseId": "caseId-198",
+            "year": "19/04/2009",
+            "sentence": 23,
+            "numOfCharge": 8
+        },
+        {
+            "_id": "5e494f51e98c9319f9520612",
+            "caseId": "caseId-93",
+            "year": "19/02/1992",
+            "sentence": 13,
+            "numOfCharge": 7
+        },
+        {
+            "_id": "5e494f5119b4a1f60e4fce49",
+            "caseId": "caseId-0",
+            "year": "23/09/2017",
+            "sentence": 2,
+            "numOfCharge": 24
+        },
+        {
+            "_id": "5e494f51e4e222d25ad09bc8",
+            "caseId": "caseId-50",
+            "year": "21/04/1978",
+            "sentence": 11,
+            "numOfCharge": 20
+        },
+        {
+            "_id": "5e494f512cc315e8a1809a96",
+            "caseId": "caseId-74",
+            "year": "12/11/2010",
+            "sentence": 39,
+            "numOfCharge": 7
+        },
+        {
+            "_id": "5e494f519a68b87de2e12c62",
+            "caseId": "caseId-171",
+            "year": "18/01/1971",
+            "sentence": 12,
+            "numOfCharge": 10
+        },
+        {
+            "_id": "5e494f517cbf0779ff2a2961",
+            "caseId": "caseId-34",
+            "year": "29/10/2008",
+            "sentence": 5,
+            "numOfCharge": 26
+        },
+        {
+            "_id": "5e494f51304294f25bc7c564",
+            "caseId": "caseId-86",
+            "year": "25/03/1972",
+            "sentence": 22,
+            "numOfCharge": 3
+        },
+        {
+            "_id": "5e494f5160047bff795d047f",
+            "caseId": "caseId-54",
+            "year": "12/09/1998",
+            "sentence": 16,
+            "numOfCharge": 4
+        },
+        {
+            "_id": "5e494f516b87101a0c45d35e",
+            "caseId": "caseId-93",
+            "year": "30/07/1986",
+            "sentence": 23,
+            "numOfCharge": 21
+        },
+        {
+            "_id": "5e494f5139cc44ed04c1f626",
+            "caseId": "caseId-109",
+            "year": "06/01/2010",
+            "sentence": 40,
+            "numOfCharge": 35
+        },
+        {
+            "_id": "5e494f51ce79e69aeaca00a7",
+            "caseId": "caseId-93",
+            "year": "09/08/1995",
+            "sentence": 29,
+            "numOfCharge": 9
+        },
+        {
+            "_id": "5e494f513386f6a7dd396c1d",
+            "caseId": "caseId-97",
+            "year": "05/05/1987",
+            "sentence": 36,
+            "numOfCharge": 13
+        },
+        {
+            "_id": "5e494f515d1d4868fb9a142d",
+            "caseId": "caseId-188",
+            "year": "10/07/1993",
+            "sentence": 14,
+            "numOfCharge": 21
+        },
+        {
+            "_id": "5e494f51ad64854e3d4ccfe7",
+            "caseId": "caseId-71",
+            "year": "01/02/2002",
+            "sentence": 33,
+            "numOfCharge": 6
+        },
+        {
+            "_id": "5e494f51c4087d7b5ca0540f",
+            "caseId": "caseId-46",
+            "year": "08/06/2016",
+            "sentence": 13,
+            "numOfCharge": 23
+        },
+        {
+            "_id": "5e494f519e24c9d9f3f0fe52",
+            "caseId": "caseId-144",
+            "year": "21/01/1987",
+            "sentence": 4,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f515f5d29b10b722226",
+            "caseId": "caseId-125",
+            "year": "24/04/2014",
+            "sentence": 38,
+            "numOfCharge": 30
+        },
+        {
+            "_id": "5e494f5142679d0e0113aff3",
+            "caseId": "caseId-21",
+            "year": "25/12/1980",
+            "sentence": 6,
+            "numOfCharge": 37
+        },
+        {
+            "_id": "5e494f51cbaca0a0657ac137",
+            "caseId": "caseId-82",
+            "year": "19/03/1977",
+            "sentence": 8,
+            "numOfCharge": 34
+        },
+        {
+            "_id": "5e494f518211dd7b166e0c5b",
+            "caseId": "caseId-50",
+            "year": "25/06/2016",
+            "sentence": 11,
+            "numOfCharge": 37
+        },
+        {
+            "_id": "5e494f5133b77f2c89917cdf",
+            "caseId": "caseId-102",
+            "year": "25/01/1993",
+            "sentence": 33,
+            "numOfCharge": 14
+        },
+        {
+            "_id": "5e494f51b7f655635b59bae9",
+            "caseId": "caseId-19",
+            "year": "19/01/2011",
+            "sentence": 6,
+            "numOfCharge": 32
+        },
+        {
+            "_id": "5e494f511711579f36478204",
+            "caseId": "caseId-82",
+            "year": "28/11/2003",
+            "sentence": 28,
+            "numOfCharge": 1
+        },
+        {
+            "_id": "5e494f51d4e8875a0f6da4a7",
+            "caseId": "caseId-33",
+            "year": "26/07/1979",
+            "sentence": 7,
+            "numOfCharge": 29
+        },
+        {
+            "_id": "5e494f519eb3e2e834e79ad0",
+            "caseId": "caseId-56",
+            "year": "05/06/2010",
+            "sentence": 35,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f5137f49fbadf3fb0a1",
+            "caseId": "caseId-154",
+            "year": "26/06/1996",
+            "sentence": 20,
+            "numOfCharge": 34
+        },
+        {
+            "_id": "5e494f510090cf145c7cef99",
+            "caseId": "caseId-48",
+            "year": "04/03/2006",
+            "sentence": 31,
+            "numOfCharge": 17
+        },
+        {
+            "_id": "5e494f514ac48ad1b32a0122",
+            "caseId": "caseId-140",
+            "year": "01/10/1975",
+            "sentence": 29,
+            "numOfCharge": 8
+        },
+        {
+            "_id": "5e494f515cb1e346ffb20fdd",
+            "caseId": "caseId-102",
+            "year": "13/02/1992",
+            "sentence": 32,
+            "numOfCharge": 26
+        },
+        {
+            "_id": "5e494f517b31094fdf218c3f",
+            "caseId": "caseId-154",
+            "year": "21/11/2004",
+            "sentence": 9,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f51e511de2ea90f7475",
+            "caseId": "caseId-93",
+            "year": "18/12/1999",
+            "sentence": 20,
+            "numOfCharge": 32
+        },
+        {
+            "_id": "5e494f5131333e0512f4f9d7",
+            "caseId": "caseId-151",
+            "year": "26/03/1980",
+            "sentence": 7,
+            "numOfCharge": 9
+        },
+        {
+            "_id": "5e494f51645d7e83cd395a36",
+            "caseId": "caseId-94",
+            "year": "15/02/1974",
+            "sentence": 38,
+            "numOfCharge": 25
+        },
+        {
+            "_id": "5e494f51adc1059dba0a265d",
+            "caseId": "caseId-103",
+            "year": "05/08/1999",
+            "sentence": 25,
+            "numOfCharge": 32
+        },
+        {
+            "_id": "5e494f51b9f9948f809c9055",
+            "caseId": "caseId-164",
+            "year": "10/02/1975",
+            "sentence": 38,
+            "numOfCharge": 4
+        },
+        {
+            "_id": "5e494f51e7d7071fe4b88484",
+            "caseId": "caseId-15",
+            "year": "24/02/2007",
+            "sentence": 31,
+            "numOfCharge": 12
+        },
+        {
+            "_id": "5e494f511a548274a24da865",
+            "caseId": "caseId-133",
+            "year": "01/12/1993",
+            "sentence": 6,
+            "numOfCharge": 7
+        },
+        {
+            "_id": "5e494f5191677c4409c07ead",
+            "caseId": "caseId-190",
+            "year": "12/10/1975",
+            "sentence": 36,
+            "numOfCharge": 15
+        },
+        {
+            "_id": "5e494f51443e56f651a74543",
+            "caseId": "caseId-75",
+            "year": "09/09/1981",
+            "sentence": 35,
+            "numOfCharge": 6
+        },
+        {
+            "_id": "5e494f515f381686842cb637",
+            "caseId": "caseId-181",
+            "year": "12/06/1970",
+            "sentence": 38,
+            "numOfCharge": 34
+        },
+        {
+            "_id": "5e494f512e059703753f8255",
+            "caseId": "caseId-25",
+            "year": "13/05/2001",
+            "sentence": 11,
+            "numOfCharge": 14
+        },
+        {
+            "_id": "5e494f5116fad5197d7795fd",
+            "caseId": "caseId-128",
+            "year": "09/01/1984",
+            "sentence": 15,
+            "numOfCharge": 23
+        },
+        {
+            "_id": "5e494f5152524e2890b3832f",
+            "caseId": "caseId-56",
+            "year": "08/10/1975",
+            "sentence": 39,
+            "numOfCharge": 21
+        },
+        {
+            "_id": "5e494f515836857c5be9431b",
+            "caseId": "caseId-40",
+            "year": "10/09/1994",
+            "sentence": 27,
+            "numOfCharge": 39
+        },
+        {
+            "_id": "5e494f51539c0cf0840df89b",
+            "caseId": "caseId-87",
+            "year": "28/05/2015",
+            "sentence": 21,
+            "numOfCharge": 33
+        },
+        {
+            "_id": "5e494f516748e23fb75cb2bf",
+            "caseId": "caseId-180",
+            "year": "07/06/1973",
+            "sentence": 2,
+            "numOfCharge": 16
+        },
+        {
+            "_id": "5e494f5100f94c446112b9de",
+            "caseId": "caseId-191",
+            "year": "18/03/1999",
+            "sentence": 18,
+            "numOfCharge": 6
+        },
+        {
+            "_id": "5e494f51fd776be0847d5c97",
+            "caseId": "caseId-63",
+            "year": "31/03/1973",
+            "sentence": 14,
+            "numOfCharge": 32
+        },
+        {
+            "_id": "5e494f5190bd4c3b5abe36be",
+            "caseId": "caseId-130",
+            "year": "28/12/2004",
+            "sentence": 15,
+            "numOfCharge": 1
+        },
+        {
+            "_id": "5e494f51859b7bd1f5dbe675",
+            "caseId": "caseId-112",
+            "year": "25/01/2008",
+            "sentence": 10,
+            "numOfCharge": 24
+        },
+        {
+            "_id": "5e494f5181eb566c19537347",
+            "caseId": "caseId-82",
+            "year": "23/05/2007",
+            "sentence": 38,
+            "numOfCharge": 18
+        },
+        {
+            "_id": "5e494f51c191ff0333ebd5b5",
+            "caseId": "caseId-33",
+            "year": "25/03/1990",
+            "sentence": 14,
+            "numOfCharge": 16
+        },
+        {
+            "_id": "5e494f51acde6585fd7d0751",
+            "caseId": "caseId-89",
+            "year": "22/05/1971",
+            "sentence": 15,
+            "numOfCharge": 24
+        },
+        {
+            "_id": "5e494f51c7762faee08eca9c",
+            "caseId": "caseId-55",
+            "year": "10/10/2013",
+            "sentence": 10,
+            "numOfCharge": 31
+        },
+        {
+            "_id": "5e494f5186de2832b683261e",
+            "caseId": "caseId-102",
+            "year": "19/09/2013",
+            "sentence": 31,
+            "numOfCharge": 18
+        },
+        {
+            "_id": "5e494f51704e6e295f4d59f5",
+            "caseId": "caseId-62",
+            "year": "01/01/1977",
+            "sentence": 34,
+            "numOfCharge": 34
+        },
+        {
+            "_id": "5e494f51015df658aefe3ddc",
+            "caseId": "caseId-99",
+            "year": "08/01/1982",
+            "sentence": 5,
+            "numOfCharge": 2
+        },
+        {
+            "_id": "5e494f51253f18d9048ff1da",
+            "caseId": "caseId-156",
+            "year": "17/04/2017",
+            "sentence": 31,
+            "numOfCharge": 27
+        },
+        {
+            "_id": "5e494f51bc84a84ced913535",
+            "caseId": "caseId-38",
+            "year": "11/01/1976",
+            "sentence": 30,
+            "numOfCharge": 40
+        },
+        {
+            "_id": "5e494f5100387e326686df17",
+            "caseId": "caseId-85",
+            "year": "03/03/2007",
+            "sentence": 23,
+            "numOfCharge": 11
+        },
+        {
+            "_id": "5e494f5161ca41a4cc4014d0",
+            "caseId": "caseId-190",
+            "year": "13/05/2008",
+            "sentence": 27,
+            "numOfCharge": 10
+        },
+        {
+            "_id": "5e494f510ea17410ad563c29",
+            "caseId": "caseId-4",
+            "year": "31/12/1981",
+            "sentence": 28,
+            "numOfCharge": 15
+        },
+        {
+            "_id": "5e494f51bafa982cebd932f1",
+            "caseId": "caseId-132",
+            "year": "02/02/1999",
+            "sentence": 10,
+            "numOfCharge": 23
+        },
+        {
+            "_id": "5e494f511e6d4aa2ec749596",
+            "caseId": "caseId-55",
+            "year": "19/02/1980",
+            "sentence": 28,
+            "numOfCharge": 24
+        },
+        {
+            "_id": "5e494f51e7b8936b9258bd5b",
+            "caseId": "caseId-162",
+            "year": "18/03/2015",
+            "sentence": 16,
+            "numOfCharge": 29
+        },
+        {
+            "_id": "5e494f518c96b845e163c345",
+            "caseId": "caseId-47",
+            "year": "02/05/1999",
+            "sentence": 6,
+            "numOfCharge": 36
+        },
+        {
+            "_id": "5e494f517c059d6199f4c94d",
+            "caseId": "caseId-123",
+            "year": "02/09/2007",
+            "sentence": 31,
+            "numOfCharge": 1
+        },
+        {
+            "_id": "5e494f51a421f0792a449c5c",
+            "caseId": "caseId-149",
+            "year": "16/12/1982",
+            "sentence": 24,
+            "numOfCharge": 6
+        },
+        {
+            "_id": "5e494f51155e277e8c633b4c",
+            "caseId": "caseId-148",
+            "year": "01/06/2008",
+            "sentence": 10,
+            "numOfCharge": 26
+        },
+        {
+            "_id": "5e494f516acb074ef7527342",
+            "caseId": "caseId-175",
+            "year": "06/02/1982",
+            "sentence": 18,
+            "numOfCharge": 17
+        },
+        {
+            "_id": "5e494f51c3d598537955ed70",
+            "caseId": "caseId-103",
+            "year": "14/08/2008",
+            "sentence": 13,
+            "numOfCharge": 3
+        },
+        {
+            "_id": "5e494f518d2e33eb06c2f2da",
+            "caseId": "caseId-186",
+            "year": "20/06/2014",
+            "sentence": 25,
+            "numOfCharge": 14
+        },
+        {
+            "_id": "5e494f51a26c5c655a89a0f6",
+            "caseId": "caseId-132",
+            "year": "11/02/2017",
+            "sentence": 34,
+            "numOfCharge": 23
+        },
+        {
+            "_id": "5e494f510f059f22e79de24a",
+            "caseId": "caseId-15",
+            "year": "15/09/1980",
+            "sentence": 15,
+            "numOfCharge": 3
+        },
+        {
+            "_id": "5e494f5129ea697a69ac0d9f",
+            "caseId": "caseId-96",
+            "year": "11/10/2005",
+            "sentence": 12,
+            "numOfCharge": 29
+        },
+        {
+            "_id": "5e494f517526b534609f0a09",
+            "caseId": "caseId-94",
+            "year": "06/01/2014",
+            "sentence": 23,
+            "numOfCharge": 15
+        },
+        {
+            "_id": "5e494f51a16bb982ec1b589d",
+            "caseId": "caseId-101",
+            "year": "09/11/2005",
+            "sentence": 29,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f51f743918dc8c8fb02",
+            "caseId": "caseId-155",
+            "year": "25/11/2016",
+            "sentence": 17,
+            "numOfCharge": 31
+        },
+        {
+            "_id": "5e494f518a42398d770c9286",
+            "caseId": "caseId-98",
+            "year": "25/08/1976",
+            "sentence": 21,
+            "numOfCharge": 4
+        },
+        {
+            "_id": "5e494f51af26f8395972a260",
+            "caseId": "caseId-51",
+            "year": "17/07/1982",
+            "sentence": 13,
+            "numOfCharge": 7
+        },
+        {
+            "_id": "5e494f5199c15bd5c97bc1cb",
+            "caseId": "caseId-177",
+            "year": "17/07/1975",
+            "sentence": 12,
+            "numOfCharge": 23
+        },
+        {
+            "_id": "5e494f516bdbac5bdd479297",
+            "caseId": "caseId-57",
+            "year": "02/03/1990",
+            "sentence": 37,
+            "numOfCharge": 35
+        },
+        {
+            "_id": "5e494f51868fd40cd0654bdc",
+            "caseId": "caseId-119",
+            "year": "06/06/1983",
+            "sentence": 10,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f513ea216b98298780b",
+            "caseId": "caseId-93",
+            "year": "28/05/1997",
+            "sentence": 31,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f514bd6c1424900a5a9",
+            "caseId": "caseId-39",
+            "year": "16/10/2018",
+            "sentence": 30,
+            "numOfCharge": 22
+        },
+        {
+            "_id": "5e494f51c54957c8553d25b4",
+            "caseId": "caseId-104",
+            "year": "05/08/1994",
+            "sentence": 9,
+            "numOfCharge": 17
+        },
+        {
+            "_id": "5e494f51e6abc2d2dace9240",
+            "caseId": "caseId-39",
+            "year": "22/10/2018",
+            "sentence": 24,
+            "numOfCharge": 37
+        },
+        {
+            "_id": "5e494f51d8b838034bf8e884",
+            "caseId": "caseId-144",
+            "year": "27/11/1985",
+            "sentence": 22,
+            "numOfCharge": 26
+        },
+        {
+            "_id": "5e494f51f6fe848de1ef5037",
+            "caseId": "caseId-170",
+            "year": "27/06/2014",
+            "sentence": 14,
+            "numOfCharge": 39
+        },
+        {
+            "_id": "5e494f5159a861bfe2220544",
+            "caseId": "caseId-99",
+            "year": "31/10/1990",
+            "sentence": 15,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f5144e3d5f485637c46",
+            "caseId": "caseId-151",
+            "year": "29/10/2012",
+            "sentence": 6,
+            "numOfCharge": 37
+        },
+        {
+            "_id": "5e494f514e88b4caf1583663",
+            "caseId": "caseId-9",
+            "year": "19/10/1975",
+            "sentence": 26,
+            "numOfCharge": 14
+        },
+        {
+            "_id": "5e494f51a5acabe63e7f5aa0",
+            "caseId": "caseId-7",
+            "year": "31/12/2011",
+            "sentence": 16,
+            "numOfCharge": 37
+        },
+        {
+            "_id": "5e494f5170defdcbe28c0f66",
+            "caseId": "caseId-197",
+            "year": "26/02/1972",
+            "sentence": 24,
+            "numOfCharge": 16
+        },
+        {
+            "_id": "5e494f5115580316ca5e04c1",
+            "caseId": "caseId-188",
+            "year": "09/01/2020",
+            "sentence": 38,
+            "numOfCharge": 9
+        },
+        {
+            "_id": "5e494f51cdad8ae9a8519157",
+            "caseId": "caseId-118",
+            "year": "12/09/1985",
+            "sentence": 4,
+            "numOfCharge": 3
+        },
+        {
+            "_id": "5e494f513a3f9df8291a3f7d",
+            "caseId": "caseId-1",
+            "year": "28/08/1996",
+            "sentence": 13,
+            "numOfCharge": 39
+        },
+        {
+            "_id": "5e494f51f9034879835843a6",
+            "caseId": "caseId-138",
+            "year": "22/12/1987",
+            "sentence": 39,
+            "numOfCharge": 39
+        },
+        {
+            "_id": "5e494f51e58c0645597cfa2a",
+            "caseId": "caseId-19",
+            "year": "08/09/1983",
+            "sentence": 4,
+            "numOfCharge": 24
+        },
+        {
+            "_id": "5e494f51f8cf93de80d6136f",
+            "caseId": "caseId-15",
+            "year": "31/12/1990",
+            "sentence": 2,
+            "numOfCharge": 20
+        },
+        {
+            "_id": "5e494f51e5c995f05fdb7449",
+            "caseId": "caseId-7",
+            "year": "23/10/2016",
+            "sentence": 37,
+            "numOfCharge": 37
+        },
+        {
+            "_id": "5e494f51ceea3ed92d50d9e7",
+            "caseId": "caseId-167",
+            "year": "11/06/2010",
+            "sentence": 34,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f51e0147001586e591d",
+            "caseId": "caseId-177",
+            "year": "16/02/1992",
+            "sentence": 7,
+            "numOfCharge": 40
+        },
+        {
+            "_id": "5e494f51b4d103698b218af7",
+            "caseId": "caseId-18",
+            "year": "11/10/2017",
+            "sentence": 23,
+            "numOfCharge": 23
+        },
+        {
+            "_id": "5e494f517858e9133fbbee00",
+            "caseId": "caseId-172",
+            "year": "15/02/1978",
+            "sentence": 26,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f5190ad7fd8095a5209",
+            "caseId": "caseId-97",
+            "year": "08/02/2000",
+            "sentence": 17,
+            "numOfCharge": 19
+        },
+        {
+            "_id": "5e494f51cb5b083765e7f198",
+            "caseId": "caseId-69",
+            "year": "19/11/2016",
+            "sentence": 1,
+            "numOfCharge": 25
+        },
+        {
+            "_id": "5e494f517fa5be531fa97b8f",
+            "caseId": "caseId-108",
+            "year": "15/09/1989",
+            "sentence": 5,
+            "numOfCharge": 39
+        },
+        {
+            "_id": "5e494f5141d814eff311a29c",
+            "caseId": "caseId-88",
+            "year": "16/04/1971",
+            "sentence": 4,
+            "numOfCharge": 35
+        },
+        {
+            "_id": "5e494f518c80c37172fa05f3",
+            "caseId": "caseId-14",
+            "year": "10/08/1992",
+            "sentence": 3,
+            "numOfCharge": 25
+        },
+        {
+            "_id": "5e494f51af145122afc9c802",
+            "caseId": "caseId-147",
+            "year": "23/05/1987",
+            "sentence": 8,
+            "numOfCharge": 27
+        },
+        {
+            "_id": "5e494f516e394d536df97e63",
+            "caseId": "caseId-114",
+            "year": "02/04/1979",
+            "sentence": 4,
+            "numOfCharge": 24
+        },
+        {
+            "_id": "5e494f514711dfd1d74e654d",
+            "caseId": "caseId-166",
+            "year": "15/10/1971",
+            "sentence": 8,
+            "numOfCharge": 34
+        },
+        {
+            "_id": "5e494f51f566b03de0e93c6c",
+            "caseId": "caseId-125",
+            "year": "04/04/2013",
+            "sentence": 37,
+            "numOfCharge": 29
+        },
+        {
+            "_id": "5e494f518a8022c9abec8e48",
+            "caseId": "caseId-137",
+            "year": "01/07/1976",
+            "sentence": 39,
+            "numOfCharge": 37
+        },
+        {
+            "_id": "5e494f5133354cfd6da6ee1d",
+            "caseId": "caseId-183",
+            "year": "14/10/1985",
+            "sentence": 16,
+            "numOfCharge": 24
+        },
+        {
+            "_id": "5e494f5121bf458c39477d79",
+            "caseId": "caseId-77",
+            "year": "28/01/1974",
+            "sentence": 4,
+            "numOfCharge": 25
+        },
+        {
+            "_id": "5e494f51600b584e64f398f6",
+            "caseId": "caseId-88",
+            "year": "04/01/1984",
+            "sentence": 19,
+            "numOfCharge": 2
+        },
+        {
+            "_id": "5e494f5122f7e099babf9592",
+            "caseId": "caseId-45",
+            "year": "24/09/1975",
+            "sentence": 19,
+            "numOfCharge": 25
+        },
+        {
+            "_id": "5e494f51b2a53e9c0c1e2d70",
+            "caseId": "caseId-20",
+            "year": "14/06/1975",
+            "sentence": 33,
+            "numOfCharge": 35
+        },
+        {
+            "_id": "5e494f514ddee98975982a86",
+            "caseId": "caseId-192",
+            "year": "19/09/2003",
+            "sentence": 21,
+            "numOfCharge": 21
+        },
+        {
+            "_id": "5e494f515fe960550c0d7a7b",
+            "caseId": "caseId-87",
+            "year": "04/01/1981",
+            "sentence": 11,
+            "numOfCharge": 25
+        },
+        {
+            "_id": "5e494f51d41aff20e0b6b5b1",
+            "caseId": "caseId-199",
+            "year": "03/03/1975",
+            "sentence": 2,
+            "numOfCharge": 12
+        },
+        {
+            "_id": "5e494f51d6d24d68ed4d1557",
+            "caseId": "caseId-153",
+            "year": "03/11/1993",
+            "sentence": 37,
+            "numOfCharge": 13
+        },
+        {
+            "_id": "5e494f518afabfc1ef4de4fb",
+            "caseId": "caseId-72",
+            "year": "12/07/1988",
+            "sentence": 34,
+            "numOfCharge": 27
+        },
+        {
+            "_id": "5e494f519cf3785247eeb3db",
+            "caseId": "caseId-30",
+            "year": "22/07/1980",
+            "sentence": 7,
+            "numOfCharge": 33
+        },
+        {
+            "_id": "5e494f51a04d7b936717129a",
+            "caseId": "caseId-165",
+            "year": "18/07/2000",
+            "sentence": 35,
+            "numOfCharge": 34
+        },
+        {
+            "_id": "5e494f51f98a4ff82e8b719e",
+            "caseId": "caseId-108",
+            "year": "24/04/1972",
+            "sentence": 30,
+            "numOfCharge": 14
+        },
+        {
+            "_id": "5e494f51537fdb08ec92ae1a",
+            "caseId": "caseId-48",
+            "year": "14/09/2018",
+            "sentence": 17,
+            "numOfCharge": 23
+        },
+        {
+            "_id": "5e494f5137e47490dac8c337",
+            "caseId": "caseId-1",
+            "year": "29/03/1996",
+            "sentence": 19,
+            "numOfCharge": 16
+        },
+        {
+            "_id": "5e494f51c9a2b99fb2a256d5",
+            "caseId": "caseId-146",
+            "year": "05/09/1991",
+            "sentence": 37,
+            "numOfCharge": 23
+        },
+        {
+            "_id": "5e494f510485dc5cb04539d1",
+            "caseId": "caseId-71",
+            "year": "22/07/2000",
+            "sentence": 25,
+            "numOfCharge": 33
+        },
+        {
+            "_id": "5e494f5144e87f4818478aea",
+            "caseId": "caseId-190",
+            "year": "25/01/2001",
+            "sentence": 40,
+            "numOfCharge": 31
+        },
+        {
+            "_id": "5e494f51091bc9ac339a9b55",
+            "caseId": "caseId-190",
+            "year": "14/11/2015",
+            "sentence": 13,
+            "numOfCharge": 4
+        },
+        {
+            "_id": "5e494f517d84ceaa9bb19ee6",
+            "caseId": "caseId-83",
+            "year": "06/05/1988",
+            "sentence": 28,
+            "numOfCharge": 22
+        },
+        {
+            "_id": "5e494f517342693ffbc5c968",
+            "caseId": "caseId-167",
+            "year": "15/03/2015",
+            "sentence": 26,
+            "numOfCharge": 34
+        },
+        {
+            "_id": "5e494f5183408781e325a103",
+            "caseId": "caseId-37",
+            "year": "22/01/1975",
+            "sentence": 20,
+            "numOfCharge": 6
+        },
+        {
+            "_id": "5e494f519067b52644485183",
+            "caseId": "caseId-45",
+            "year": "16/06/1999",
+            "sentence": 20,
+            "numOfCharge": 10
+        },
+        {
+            "_id": "5e494f51d05cb0507d6546a9",
+            "caseId": "caseId-167",
+            "year": "13/09/1993",
+            "sentence": 15,
+            "numOfCharge": 30
+        },
+        {
+            "_id": "5e494f51e3813a4574ee9ea0",
+            "caseId": "caseId-186",
+            "year": "26/06/1988",
+            "sentence": 12,
+            "numOfCharge": 34
+        },
+        {
+            "_id": "5e494f51dd4b99308fe6e5c8",
+            "caseId": "caseId-88",
+            "year": "01/06/2000",
+            "sentence": 25,
+            "numOfCharge": 22
+        },
+        {
+            "_id": "5e494f510837400edb95dcf1",
+            "caseId": "caseId-130",
+            "year": "22/01/1990",
+            "sentence": 20,
+            "numOfCharge": 17
+        },
+        {
+            "_id": "5e494f5103e44fb7a5e63d7d",
+            "caseId": "caseId-66",
+            "year": "08/10/1981",
+            "sentence": 15,
+            "numOfCharge": 21
+        },
+        {
+            "_id": "5e494f51a06cd18d57991752",
+            "caseId": "caseId-88",
+            "year": "23/12/1971",
+            "sentence": 16,
+            "numOfCharge": 32
+        },
+        {
+            "_id": "5e494f5147fd1510e624e7ef",
+            "caseId": "caseId-104",
+            "year": "16/08/2001",
+            "sentence": 28,
+            "numOfCharge": 37
+        },
+        {
+            "_id": "5e494f51fb752b7d9e15dedc",
+            "caseId": "caseId-169",
+            "year": "05/06/1978",
+            "sentence": 5,
+            "numOfCharge": 18
+        },
+        {
+            "_id": "5e494f51a78db02c22297c8d",
+            "caseId": "caseId-116",
+            "year": "13/02/1991",
+            "sentence": 34,
+            "numOfCharge": 4
+        },
+        {
+            "_id": "5e494f51c39629267dced51e",
+            "caseId": "caseId-168",
+            "year": "05/09/2015",
+            "sentence": 3,
+            "numOfCharge": 32
+        },
+        {
+            "_id": "5e494f51e8316c61ccf59c18",
+            "caseId": "caseId-99",
+            "year": "21/11/1991",
+            "sentence": 7,
+            "numOfCharge": 30
+        },
+        {
+            "_id": "5e494f5116117990afea8daa",
+            "caseId": "caseId-93",
+            "year": "11/09/1991",
+            "sentence": 10,
+            "numOfCharge": 20
+        },
+        {
+            "_id": "5e494f51224e9fe64c7c17a9",
+            "caseId": "caseId-109",
+            "year": "09/09/2004",
+            "sentence": 13,
+            "numOfCharge": 24
+        },
+        {
+            "_id": "5e494f51f109e30650b12257",
+            "caseId": "caseId-200",
+            "year": "07/09/2002",
+            "sentence": 18,
+            "numOfCharge": 5
+        },
+        {
+            "_id": "5e494f5148481a7408e973bd",
+            "caseId": "caseId-119",
+            "year": "19/09/1983",
+            "sentence": 5,
+            "numOfCharge": 16
+        },
+        {
+            "_id": "5e494f519f6e7a57d1b9e219",
+            "caseId": "caseId-194",
+            "year": "16/03/2000",
+            "sentence": 39,
+            "numOfCharge": 25
+        },
+        {
+            "_id": "5e494f51fef6e787f0ad4d1b",
+            "caseId": "caseId-95",
+            "year": "17/02/2013",
+            "sentence": 15,
+            "numOfCharge": 16
+        },
+        {
+            "_id": "5e494f516963c4841a6b5f6c",
+            "caseId": "caseId-89",
+            "year": "25/12/2019",
+            "sentence": 11,
+            "numOfCharge": 37
+        },
+        {
+            "_id": "5e494f513e0a52f36ae83638",
+            "caseId": "caseId-8",
+            "year": "04/02/1986",
+            "sentence": 23,
+            "numOfCharge": 12
+        },
+        {
+            "_id": "5e494f516cbebf31ef8a59d2",
+            "caseId": "caseId-151",
+            "year": "15/08/1975",
+            "sentence": 35,
+            "numOfCharge": 16
+        },
+        {
+            "_id": "5e494f515575d9516f1d1c7c",
+            "caseId": "caseId-54",
+            "year": "17/01/2008",
+            "sentence": 28,
+            "numOfCharge": 28
+        },
+        {
+            "_id": "5e494f51431ef3e5a87d4f25",
+            "caseId": "caseId-125",
+            "year": "29/09/1986",
+            "sentence": 12,
+            "numOfCharge": 30
+        },
+        {
+            "_id": "5e494f51f6d5b0438b7a0492",
+            "caseId": "caseId-61",
+            "year": "10/09/2002",
+            "sentence": 33,
+            "numOfCharge": 8
+        },
+        {
+            "_id": "5e494f51bfa730d718b69ee7",
+            "caseId": "caseId-92",
+            "year": "07/10/1992",
+            "sentence": 8,
+            "numOfCharge": 17
+        },
+        {
+            "_id": "5e494f517d7b7f3a1560ce43",
+            "caseId": "caseId-99",
+            "year": "26/05/2007",
+            "sentence": 21,
+            "numOfCharge": 38
+        },
+        {
+            "_id": "5e494f517bbf13cbc11bb247",
+            "caseId": "caseId-63",
+            "year": "23/05/1988",
+            "sentence": 24,
+            "numOfCharge": 37
+        },
+        {
+            "_id": "5e494f51500a40a5be780196",
+            "caseId": "caseId-90",
+            "year": "30/12/2011",
+            "sentence": 8,
+            "numOfCharge": 5
+        },
+        {
+            "_id": "5e494f5179ac55c57e9398fc",
+            "caseId": "caseId-152",
+            "year": "12/03/1996",
+            "sentence": 13,
+            "numOfCharge": 17
+        },
+        {
+            "_id": "5e494f5179220f04e3cc638f",
+            "caseId": "caseId-66",
+            "year": "11/05/1985",
+            "sentence": 29,
+            "numOfCharge": 26
+        },
+        {
+            "_id": "5e494f516393c7e19eb361ea",
+            "caseId": "caseId-10",
+            "year": "11/12/2010",
+            "sentence": 33,
+            "numOfCharge": 20
         }
     ]
 }
-
-
-
-
-
