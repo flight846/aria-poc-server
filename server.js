@@ -10,10 +10,6 @@ const userdb = JSON.parse(fs.readFileSync('./users.json', 'UTF-8'));
 server.use(bodyParser.urlencoded({ extended: true }));
 server.use(bodyParser.json());
 server.use(jsonServer.defaults());
-server.use((req, res, next) => {
-    res.header('Access-Control-Allow-Origin', '*');
-    next();
-});
 
 const SECRET_KEY = 'feb1986feb1986';
 const expiresIn = '1h';
