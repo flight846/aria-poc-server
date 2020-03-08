@@ -141,6 +141,10 @@ server.use(/^(?!\/auth).*$/, (req, res, next) => {
 });
 
 server.use('/api', router);
+server.use((req, res, next) => {
+    res.header('Access-Control-Allow-Origin', '*');
+    next();
+});
 
 server.listen(process.env.PORT || 5000, () => {
     console.log('Run Auth API Server');
